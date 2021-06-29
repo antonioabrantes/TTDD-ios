@@ -1,0 +1,3139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <id>1</id>
+        <symbol1>000</symbol1>
+        <assunto1>Administração Geral</assunto1>
+        <symbol2>000</symbol2>
+        <assunto2>Administração Geral</assunto2>
+    </row>
+    <row>
+        <id>2</id>
+        <symbol1>001</symbol1>
+        <assunto1>Modernização e Reforma administrativa</assunto1>
+        <symbol2>011</symbol2>
+        <assunto2>Organização administrativa</assunto2>
+    </row>
+    <row>
+        <id>3</id>
+        <symbol1>002</symbol1>
+        <assunto1>Planos programas e projetos de trabalho</assunto1>
+        <symbol2>015.1</symbol2>
+        <assunto2>Planejamento institucional</assunto2>
+    </row>
+    <row>
+        <id>4</id>
+        <symbol1>003</symbol1>
+        <assunto1>Relatórios de atividades</assunto1>
+        <symbol2>015.2</symbol2>
+        <assunto2>Acompanhamento das atividades</assunto2>
+    </row>
+    <row>
+        <id>5</id>
+        <symbol1>004</symbol1>
+        <assunto1>Acordos. Ajustes. Contratos. Convênios</assunto1>
+        <symbol2>001</symbol2>
+        <assunto2>Relação interinstitucional</assunto2>
+    </row>
+    <row>
+        <id>6</id>
+        <symbol1>010</symbol1>
+        <assunto1>Organização e funcionamento</assunto1>
+        <symbol2>010</symbol2>
+        <assunto2>Organização e funcionamento</assunto2>
+    </row>
+    <row>
+        <id>7</id>
+        <symbol1>010.1</symbol1>
+        <assunto1>Registro nos órgãos competentes</assunto1>
+        <symbol2>012</symbol2>
+        <assunto2>Habilitação jurídica e regularização fiscal</assunto2>
+    </row>
+    <row>
+        <id>8</id>
+        <symbol1>010.2</symbol1>
+        <assunto1>Regimentos. Regulamentos. Estatutos. Organogramas. Estruturas</assunto1>
+        <symbol2>011</symbol2>
+        <assunto2>Organização administrativa</assunto2>
+    </row>
+    <row>
+        <id>9</id>
+        <symbol1>010.3</symbol1>
+        <assunto1>Audiências. Despachos. Reuniões</assunto1>
+        <symbol2>013.1</symbol2>
+        <assunto2>Operacionalização (Coordenação e gestão de reuniões)</assunto2>
+    </row>
+    <row>
+        <id>10</id>
+        <symbol1>010.3</symbol1>
+        <assunto1>Audiências. Despachos. Reuniões</assunto1>
+        <symbol2>013.2</symbol2>
+        <assunto2>Registro de deliberações (Coordenação e gestão de reuniões)</assunto2>
+    </row>
+    <row>
+        <id>11</id>
+        <symbol1>011</symbol1>
+        <assunto1>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</assunto1>
+        <symbol2>005.1</symbol2>
+        <assunto2>Criação e atuação (Participação em órgãos colegiados)</assunto2>
+    </row>
+    <row>
+        <id>12</id>
+        <symbol1>011</symbol1>
+        <assunto1>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</assunto1>
+        <symbol2>005.2</symbol2>
+        <assunto2>Operacionalização de reuniões (Participação em órgãos colegiados)</assunto2>
+    </row>
+    <row>
+        <id>13</id>
+        <symbol1>011</symbol1>
+        <assunto1>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</assunto1>
+        <symbol2>061.011</symbol2>
+        <assunto2>Composição e atuação (Constituição da comissão permanente de avaliação de documentos)</assunto2>
+    </row>
+    <row>
+        <id>14</id>
+        <symbol1>011</symbol1>
+        <assunto1>Comissões. Conselhos. Grupos de trabalho. Juntas. Comitês</assunto1>
+        <symbol2>061.012</symbol2>
+        <assunto2>Operacionalização de reuniões (Constituição da comissão permanente de avaliação de documentos)</assunto2>
+    </row>
+    <row>
+        <id>15</id>
+        <symbol1>012</symbol1>
+        <assunto1>Comunicação social</assunto1>
+        <symbol2>019.1</symbol2>
+        <assunto2>Comunicação social</assunto2>
+    </row>
+    <row>
+        <id>16</id>
+        <symbol1>012.1</symbol1>
+        <assunto1>Relações com a imprensa</assunto1>
+        <symbol2>019.112</symbol2>
+        <assunto2>Relação com a imprensa</assunto2>
+    </row>
+    <row>
+        <id>17</id>
+        <symbol1>012.11</symbol1>
+        <assunto1>Credenciamento de jornalistas</assunto1>
+        <symbol2>019.111</symbol2>
+        <assunto2>Credenciamento de jornalistas</assunto2>
+    </row>
+    <row>
+        <id>18</id>
+        <symbol1>012.12</symbol1>
+        <assunto1>Entrevistas. Noticiários. Reportagens. Editoriais</assunto1>
+        <symbol2>019.112</symbol2>
+        <assunto2>Relação com a imprensa</assunto2>
+    </row>
+    <row>
+        <id>19</id>
+        <symbol1>012.2</symbol1>
+        <assunto1>Divulgação interna</assunto1>
+        <symbol2>019.12</symbol2>
+        <assunto2>Comunicação interna</assunto2>
+    </row>
+    <row>
+        <id>20</id>
+        <symbol1>012.3</symbol1>
+        <assunto1>Campanhas institucionais. Publicidade</assunto1>
+        <symbol2>019.113</symbol2>
+        <assunto2>Elaboração de campanhas publicitárias</assunto2>
+    </row>
+    <row>
+        <id>21</id>
+        <symbol1>019</symbol1>
+        <assunto1>Outros assuntos referentes à organização e funcionamento</assunto1>
+        <symbol2>019</symbol2>
+        <assunto2>Outras ações referentes à organização e funcionamento</assunto2>
+    </row>
+    <row>
+        <id>22</id>
+        <symbol1>019.01</symbol1>
+        <assunto1>Informações sobre o órgão</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>23</id>
+        <symbol1>020</symbol1>
+        <assunto1>Pessoal</assunto1>
+        <symbol2>020</symbol2>
+        <assunto2>Gestão de pessoas</assunto2>
+    </row>
+    <row>
+        <id>24</id>
+        <symbol1>020.1</symbol1>
+        <assunto1>Legislação</assunto1>
+        <symbol2>010.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Organização e funcionamento)</assunto2>
+    </row>
+    <row>
+        <id>25</id>
+        <symbol1>020.1</symbol1>
+        <assunto1>Legislação</assunto1>
+        <symbol2>020.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão de pessoas)</assunto2>
+    </row>
+    <row>
+        <id>26</id>
+        <symbol1>020.2</symbol1>
+        <assunto1>Identificação funcional</assunto1>
+        <symbol2>020.2</symbol2>
+        <assunto2>Identificação funcional</assunto2>
+    </row>
+    <row>
+        <id>27</id>
+        <symbol1>020.3</symbol1>
+        <assunto1>Obrigações trabalhistas e estatutárias. Relações com órgãos normatizadores da administração pública. Lei dos 2/3. Rais</assunto1>
+        <symbol2>023.18</symbol2>
+        <assunto2>Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos</assunto2>
+    </row>
+    <row>
+        <id>28</id>
+        <symbol1>020.3</symbol1>
+        <assunto1>Obrigações trabalhistas e estatutárias. Relações com órgãos normatizadores da administração pública. Lei dos 2/3. Rais</assunto1>
+        <symbol2>023.186</symbol2>
+        <assunto2>Lei dos dois terços. Relação anual de informações sociais (Rais)</assunto2>
+    </row>
+    <row>
+        <id>29</id>
+        <symbol1>020.31</symbol1>
+        <assunto1>Relações com os conselhos profissionais</assunto1>
+        <symbol2>020.033</symbol2>
+        <assunto2>Relação com conselhos profissionais</assunto2>
+    </row>
+    <row>
+        <id>30</id>
+        <symbol1>020.4</symbol1>
+        <assunto1>Sindicatos. Acordos. Dissídios</assunto1>
+        <symbol2>020.031</symbol2>
+        <assunto2>Relação com sindicatos</assunto2>
+    </row>
+    <row>
+        <id>31</id>
+        <symbol1>020.5</symbol1>
+        <assunto1>Assentamentos individuais. Cadastro</assunto1>
+        <symbol2>020.11</symbol2>
+        <assunto2>Servidores e empregados públicos (Assentamento funcional)</assunto2>
+    </row>
+    <row>
+        <id>32</id>
+        <symbol1>020.5</symbol1>
+        <assunto1>Assentamentos individuais. Cadastro</assunto1>
+        <symbol2>020.12</symbol2>
+        <assunto2>Servidores temporários (Assentamento funcional)</assunto2>
+    </row>
+    <row>
+        <id>33</id>
+        <symbol1>020.5</symbol1>
+        <assunto1>Assentamentos individuais. Cadastro</assunto1>
+        <symbol2>020.13</symbol2>
+        <assunto2>Residentes e estagiários (Assentamento funcional)</assunto2>
+    </row>
+    <row>
+        <id>34</id>
+        <symbol1>020.5</symbol1>
+        <assunto1>Assentamentos individuais. Cadastro</assunto1>
+        <symbol2>020.14</symbol2>
+        <assunto2>Ocupantes de cargo comissionado e de função de confiança (Assentamento funcional)</assunto2>
+    </row>
+    <row>
+        <id>35</id>
+        <symbol1>021</symbol1>
+        <assunto1>Recrutamento e seleção</assunto1>
+        <symbol2>021</symbol2>
+        <assunto2>Recrutamento e seleção</assunto2>
+    </row>
+    <row>
+        <id>36</id>
+        <symbol1>021.1</symbol1>
+        <assunto1>Candidatos a cargo e emprego públicos: inscrição e curriculum vitae</assunto1>
+        <symbol2>021.2</symbol2>
+        <assunto2>Inscrição (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>37</id>
+        <symbol1>021.2</symbol1>
+        <assunto1>Exames de seleção</assunto1>
+        <symbol2>021.1</symbol2>
+        <assunto2>Planejamento do processo seletivo (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>38</id>
+        <symbol1>021.2</symbol1>
+        <assunto1>Exames de seleção</assunto1>
+        <symbol2>021.2</symbol2>
+        <assunto2>Inscrição (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>39</id>
+        <symbol1>021.2</symbol1>
+        <assunto1>Exames de seleção</assunto1>
+        <symbol2>021.3</symbol2>
+        <assunto2>Controle de aplicação de provas (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>40</id>
+        <symbol1>021.2</symbol1>
+        <assunto1>Exames de seleção</assunto1>
+        <symbol2>021.4</symbol2>
+        <assunto2>Correção de provas. Avaliação (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>41</id>
+        <symbol1>021.2</symbol1>
+        <assunto1>Exames de seleção</assunto1>
+        <symbol2>021.5</symbol2>
+        <assunto2>Divulgação dos resultados e interposição de recursos (Recrutamento e seleção)</assunto2>
+    </row>
+    <row>
+        <id>42</id>
+        <symbol1>022</symbol1>
+        <assunto1>Aperfeiçoamento e treinamento</assunto1>
+        <symbol2>024</symbol2>
+        <assunto2>Capacitação do servidor</assunto2>
+    </row>
+    <row>
+        <id>43</id>
+        <symbol1>022.1</symbol1>
+        <assunto1>Cursos</assunto1>
+        <symbol2>024.1</symbol2>
+        <assunto2>Promoção de cursos pelo órgão e entidade</assunto2>
+    </row>
+    <row>
+        <id>44</id>
+        <symbol1>022.11</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.11</symbol2>
+        <assunto2>Programação (Promoção de cursos pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>45</id>
+        <symbol1>022.11</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.12</symbol2>
+        <assunto2>Inscrição e frequência (Promoção de cursos pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>46</id>
+        <symbol1>022.11</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.13</symbol2>
+        <assunto2>Avaliação e resultados (Promoção de cursos pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>47</id>
+        <symbol1>022.12</symbol1>
+        <assunto1>Promovidos por outras instituições</assunto1>
+        <symbol2>024.2</symbol2>
+        <assunto2>Participação em cursos promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>48</id>
+        <symbol1>022.121</symbol1>
+        <assunto1>No Brasil</assunto1>
+        <symbol2>024.2</symbol2>
+        <assunto2>Participação em cursos promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>49</id>
+        <symbol1>022.122</symbol1>
+        <assunto1>No exterior</assunto1>
+        <symbol2>024.2</symbol2>
+        <assunto2>Participação em cursos promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>50</id>
+        <symbol1>022.2</symbol1>
+        <assunto1>Estágios</assunto1>
+        <symbol2>024.3</symbol2>
+        <assunto2>Promoção de estágios pelo órgão e entidade</assunto2>
+    </row>
+    <row>
+        <id>51</id>
+        <symbol1>022.21</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.31</symbol2>
+        <assunto2>Programação (Promoção de estágios pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>52</id>
+        <symbol1>022.21</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.32</symbol2>
+        <assunto2>Inscrição e frequência (Promoção de estágios pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>53</id>
+        <symbol1>022.21</symbol1>
+        <assunto1>Promovidos pela instituição</assunto1>
+        <symbol2>024.33</symbol2>
+        <assunto2>Avaliação e resultados (Promoção de estágios pelo órgão e entidade)</assunto2>
+    </row>
+    <row>
+        <id>54</id>
+        <symbol1>022.22</symbol1>
+        <assunto1>Promovidos por outras instituições</assunto1>
+        <symbol2>024.4</symbol2>
+        <assunto2>Participação em estágios promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>55</id>
+        <symbol1>022.221</symbol1>
+        <assunto1>No Brasil</assunto1>
+        <symbol2>024.4</symbol2>
+        <assunto2>Participação em estágios promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>56</id>
+        <symbol1>022.222</symbol1>
+        <assunto1>No exterior</assunto1>
+        <symbol2>024.4</symbol2>
+        <assunto2>Participação em estágios promovidos por outros órgãos e entidades</assunto2>
+    </row>
+    <row>
+        <id>57</id>
+        <symbol1>022.9</symbol1>
+        <assunto1>Outros assuntos referentes a aperfeiçoamento e treinamento</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>58</id>
+        <symbol1>023</symbol1>
+        <assunto1>Quadros, tabelas e política de pessoal</assunto1>
+        <symbol2>020.02</symbol2>
+        <assunto2>Implementação das políticas de pessoal</assunto2>
+    </row>
+    <row>
+        <id>59</id>
+        <symbol1>023.01</symbol1>
+        <assunto1>Estudos e previsão de pessoal</assunto1>
+        <symbol2>020.021</symbol2>
+        <assunto2>Planejamento da força de trabalho. Previsão de pessoal</assunto2>
+    </row>
+    <row>
+        <id>60</id>
+        <symbol1>023.02</symbol1>
+        <assunto1>Criação, classificação, transformação, transposição e remuneração de cargos e funções</assunto1>
+        <symbol2>020.022</symbol2>
+        <assunto2>Criação, extinção, classificação, transformação e transposição de cargos e de carreiras</assunto2>
+    </row>
+    <row>
+        <id>61</id>
+        <symbol1>023.03</symbol1>
+        <assunto1>Reestruturações e alterações salariais</assunto1>
+        <symbol2>023.12</symbol2>
+        <assunto2>Reestruturação e alteração salarial (Pagamento de vencimentos. Remunerações. Salários. Proventos)</assunto2>
+    </row>
+    <row>
+        <id>62</id>
+        <symbol1>023.1</symbol1>
+        <assunto1>Movimentação de pessoal</assunto1>
+        <symbol2>022.2</symbol2>
+        <assunto2>Movimentação de pessoal</assunto2>
+    </row>
+    <row>
+        <id>63</id>
+        <symbol1>023.11</symbol1>
+        <assunto1>Admissão. Aproveitamento. Contratação. Nomeação. Readmissão. Readaptação. Recondução. Reintegração. Reversão</assunto1>
+        <symbol2>022.1</symbol2>
+        <assunto2>Provimento de cargo público</assunto2>
+    </row>
+    <row>
+        <id>64</id>
+        <symbol1>023.12</symbol1>
+        <assunto1>Demissão. Dispensa. Exoneração. Rescisão contratual. Falecimento</assunto1>
+        <symbol2>022.7</symbol2>
+        <assunto2>Vacância</assunto2>
+    </row>
+    <row>
+        <id>65</id>
+        <symbol1>023.13</symbol1>
+        <assunto1>Lotação. Remoção. Transferência. Permuta</assunto1>
+        <symbol2>022.21</symbol2>
+        <assunto2>Lotação, exercício e permuta</assunto2>
+    </row>
+    <row>
+        <id>66</id>
+        <symbol1>023.13</symbol1>
+        <assunto1>Lotação. Remoção. Transferência. Permuta</assunto1>
+        <symbol2>022.3</symbol2>
+        <assunto2>Remoção</assunto2>
+    </row>
+    <row>
+        <id>67</id>
+        <symbol1>023.14</symbol1>
+        <assunto1>Designação. Disponibilidade. Redistribuição. Substituição</assunto1>
+        <symbol2>022.1</symbol2>
+        <assunto2>Provimento de cargo público</assunto2>
+    </row>
+    <row>
+        <id>68</id>
+        <symbol1>023.14</symbol1>
+        <assunto1>Designação. Disponibilidade. Redistribuição. Substituição</assunto1>
+        <symbol2>022.4</symbol2>
+        <assunto2>Redistribuição</assunto2>
+    </row>
+    <row>
+        <id>69</id>
+        <symbol1>023.14</symbol1>
+        <assunto1>Designação. Disponibilidade. Redistribuição. Substituição</assunto1>
+        <symbol2>022.5</symbol2>
+        <assunto2>Substituição</assunto2>
+    </row>
+    <row>
+        <id>70</id>
+        <symbol1>023.15</symbol1>
+        <assunto1>Requisição. Cessão</assunto1>
+        <symbol2>022.22</symbol2>
+        <assunto2>Cessão. Requisição</assunto2>
+    </row>
+    <row>
+        <id>71</id>
+        <symbol1>024</symbol1>
+        <assunto1>Direitos, obrigações e vantagens</assunto1>
+        <symbol2>023</symbol2>
+        <assunto2>Concessão de direitos e vantagens</assunto2>
+    </row>
+    <row>
+        <id>72</id>
+        <symbol1>024.1</symbol1>
+        <assunto1>Folhas de pagamento. Fichas financeiras</assunto1>
+        <symbol2>023.11</symbol2>
+        <assunto2>Folhas de pagamento</assunto2>
+    </row>
+    <row>
+        <id>73</id>
+        <symbol1>024.11</symbol1>
+        <assunto1>Salários, vencimentos, proventos e remunerações</assunto1>
+        <symbol2>023.1</symbol2>
+        <assunto2>Pagamento de vencimentos. Remunerações. Salários. Proventos</assunto2>
+    </row>
+    <row>
+        <id>74</id>
+        <symbol1>024.111</symbol1>
+        <assunto1>Salário-família</assunto1>
+        <symbol2>026.1</symbol2>
+        <assunto2>Salário família (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>75</id>
+        <symbol1>024.112</symbol1>
+        <assunto1>Abono ou provento provisório. Abono de permanência em serviço</assunto1>
+        <symbol2>023.13</symbol2>
+        <assunto2>Abono provisório</assunto2>
+    </row>
+    <row>
+        <id>76</id>
+        <symbol1>024.112</symbol1>
+        <assunto1>Abono ou provento provisório. Abono de permanência em serviço</assunto1>
+        <symbol2>023.14</symbol2>
+        <assunto2>Abono de permanência em serviço</assunto2>
+    </row>
+    <row>
+        <id>77</id>
+        <symbol1>024.119</symbol1>
+        <assunto1>Outros salários, vencimentos, proventos e remunerações</assunto1>
+        <symbol2>023.191</symbol2>
+        <assunto2>Retificação de pagamento (Outras ações referentes ao pagamento de vencime ntos. Remunerações. Salários. Proventos)</assunto2>
+    </row>
+    <row>
+        <id>78</id>
+        <symbol1>024.12</symbol1>
+        <assunto1>Gratificações</assunto1>
+        <symbol2>023.15</symbol2>
+        <assunto2>Gratificações</assunto2>
+    </row>
+    <row>
+        <id>79</id>
+        <symbol1>024.121</symbol1>
+        <assunto1>De função</assunto1>
+        <symbol2>023.151</symbol2>
+        <assunto2>Função (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>80</id>
+        <symbol1>024.122</symbol1>
+        <assunto1>Jetons</assunto1>
+        <symbol2>023.152</symbol2>
+        <assunto2>Jetons (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>81</id>
+        <symbol1>024.123</symbol1>
+        <assunto1>Cargos em comissão</assunto1>
+        <symbol2>023.153</symbol2>
+        <assunto2>Cargos em comissão (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>82</id>
+        <symbol1>024.124</symbol1>
+        <assunto1>Natalina</assunto1>
+        <symbol2>023.154</symbol2>
+        <assunto2>Natalina. Décimo terceiro salário (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>83</id>
+        <symbol1>024.12</symbol1>
+        <assunto1>Outras gratificações</assunto1>
+        <symbol2>023.155</symbol2>
+        <assunto2>Desempenho (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>84</id>
+        <symbol1>024.12</symbol1>
+        <assunto1>Outras gratificações</assunto1>
+        <symbol2>023.156</symbol2>
+        <assunto2>Encargo de curso e concurso (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>85</id>
+        <symbol1>024.12</symbol1>
+        <assunto1>Outras gratificações</assunto1>
+        <symbol2>023.157</symbol2>
+        <assunto2>Titulação (Gratificações)</assunto2>
+    </row>
+    <row>
+        <id>86</id>
+        <symbol1>024.13</symbol1>
+        <assunto1>Adicionais</assunto1>
+        <symbol2>023.16</symbol2>
+        <assunto2>Adicionais</assunto2>
+    </row>
+    <row>
+        <id>87</id>
+        <symbol1>024.131</symbol1>
+        <assunto1>Tempo de serviço</assunto1>
+        <symbol2>023.161</symbol2>
+        <assunto2>Tempo de serviço (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>88</id>
+        <symbol1>024.132</symbol1>
+        <assunto1>Noturno</assunto1>
+        <symbol2>023.162</symbol2>
+        <assunto2>Noturno (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>89</id>
+        <symbol1>024.133</symbol1>
+        <assunto1>Periculosidade</assunto1>
+        <symbol2>023.163</symbol2>
+        <assunto2>Periculosidade (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>90</id>
+        <symbol1>024.134</symbol1>
+        <assunto1>Insalubridade</assunto1>
+        <symbol2>023.164</symbol2>
+        <assunto2>Insalubridade (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>91</id>
+        <symbol1>024.135</symbol1>
+        <assunto1>Atividades penosas</assunto1>
+        <symbol2>023.165</symbol2>
+        <assunto2>Atividade penosa (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>92</id>
+        <symbol1>024.136</symbol1>
+        <assunto1>Serviço extraordinário</assunto1>
+        <symbol2>023.166</symbol2>
+        <assunto2>Serviço extraordinário. Horas extras (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>93</id>
+        <symbol1>024.137</symbol1>
+        <assunto1>Férias: adicional de 1/3 e abono pecuniário</assunto1>
+        <symbol2>023.167</symbol2>
+        <assunto2>Um terço de férias. Abono pecuniário (Adicionais)</assunto2>
+    </row>
+    <row>
+        <id>94</id>
+        <symbol1>024.139</symbol1>
+        <assunto1>Outros adicionais</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>95</id>
+        <symbol1>024.14</symbol1>
+        <assunto1>Descontos</assunto1>
+        <symbol2>023.17</symbol2>
+        <assunto2>Descontos</assunto2>
+    </row>
+    <row>
+        <id>96</id>
+        <symbol1>024.141</symbol1>
+        <assunto1>Contribuição sindical do servidor</assunto1>
+        <symbol2>023.171</symbol2>
+        <assunto2>Contribuição sindical, assistencial e confederativa (Descontos)</assunto2>
+    </row>
+    <row>
+        <id>97</id>
+        <symbol1>024.142</symbol1>
+        <assunto1>Contribuição para o plano de seguridade social</assunto1>
+        <symbol2>023.172</symbol2>
+        <assunto2>Contribuição para o plano de seguridade social (Descontos)</assunto2>
+    </row>
+    <row>
+        <id>98</id>
+        <symbol1>024.143</symbol1>
+        <assunto1>Imposto de renda retido na fonte (IRRF)</assunto1>
+        <symbol2>023.173</symbol2>
+        <assunto2>Imposto de renda retido na fonte (IRRF) (Descontos)</assunto2>
+    </row>
+    <row>
+        <id>99</id>
+        <symbol1>024.144</symbol1>
+        <assunto1>Pensões alimentícias</assunto1>
+        <symbol2>023.174</symbol2>
+        <assunto2>Pensão alimentícia (Descontos)</assunto2>
+    </row>
+    <row>
+        <id>100</id>
+        <symbol1>024.145</symbol1>
+        <assunto1>Consignações</assunto1>
+        <symbol2>023.175</symbol2>
+        <assunto2>Consignações facultativas (Descontos)</assunto2>
+    </row>
+    <row>
+        <id>101</id>
+        <symbol1>024.149</symbol1>
+        <assunto1>Outros descontos</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>102</id>
+        <symbol1>024.15</symbol1>
+        <assunto1>Encargos patronais. Recolhimentos</assunto1>
+        <symbol2>023.18</symbol2>
+        <assunto2>Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos</assunto2>
+    </row>
+    <row>
+        <id>103</id>
+        <symbol1>024.151</symbol1>
+        <assunto1>Programa de formação do patrimônio do servidor público (Pasep). Programa de integração social (PIS)</assunto1>
+        <symbol2>023.181</symbol2>
+        <assunto2>Programa de formação do patrimônio do servidor público (Pasep). Programa de integração social (PIS)</assunto2>
+    </row>
+    <row>
+        <id>104</id>
+        <symbol1>024.152</symbol1>
+        <assunto1>Fundo de garantia por tempo de serviço (FGTS)</assunto1>
+        <symbol2>023.182</symbol2>
+        <assunto2>Fundo de garantia do tempo de serviço (FGTS)</assunto2>
+    </row>
+    <row>
+        <id>105</id>
+        <symbol1>024.153</symbol1>
+        <assunto1>Contribuição sindical do empregador</assunto1>
+        <symbol2>023.183</symbol2>
+        <assunto2>Contribuição sindical do empregador (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</assunto2>
+    </row>
+    <row>
+        <id>106</id>
+        <symbol1>024.154</symbol1>
+        <assunto1>Contribuição para o plano de seguridade social</assunto1>
+        <symbol2>023.184</symbol2>
+        <assunto2>Contribuição para o plano de seguridade social (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</assunto2>
+    </row>
+    <row>
+        <id>107</id>
+        <symbol1>024.155</symbol1>
+        <assunto1>Salário maternidade</assunto1>
+        <symbol2>026.2</symbol2>
+        <assunto2>Salário maternidade (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>108</id>
+        <symbol1>024.156</symbol1>
+        <assunto1>Imposto de renda</assunto1>
+        <symbol2>023.185</symbol2>
+        <assunto2>Imposto de renda (Obrigações trabalhistas e estatutárias, encargos patronais e recolhimentos)</assunto2>
+    </row>
+    <row>
+        <id>109</id>
+        <symbol1>024.2</symbol1>
+        <assunto1>Férias</assunto1>
+        <symbol2>023.2</symbol2>
+        <assunto2>Férias (Concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>110</id>
+        <symbol1>024.3</symbol1>
+        <assunto1>Licenças</assunto1>
+        <symbol2>023.3</symbol2>
+        <assunto2>Licenças (Concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>111</id>
+        <symbol1>024.3</symbol1>
+        <assunto1>Licenças</assunto1>
+        <symbol2>026.4</symbol2>
+        <assunto2>Licenças (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>112</id>
+        <symbol1>024.4</symbol1>
+        <assunto1>Afastamentos</assunto1>
+        <symbol2>023.4</symbol2>
+        <assunto2>Afastamentos</assunto2>
+    </row>
+    <row>
+        <id>113</id>
+        <symbol1>024.5</symbol1>
+        <assunto1>Reembolso de despesas</assunto1>
+        <symbol2>023.7</symbol2>
+        <assunto2>Reembolso de despesas. Indenização</assunto2>
+    </row>
+    <row>
+        <id>114</id>
+        <symbol1>024.51</symbol1>
+        <assunto1>Mudança de domicílio de servidores</assunto1>
+        <symbol2>023.71</symbol2>
+        <assunto2>Mudança de domicílio (Reembolso de despesas. Indenização)</assunto2>
+    </row>
+    <row>
+        <id>115</id>
+        <symbol1>024.52</symbol1>
+        <assunto1>Locomoção</assunto1>
+        <symbol2>023.72</symbol2>
+        <assunto2>Locomoção (Reembolso de despesas. Indenização)</assunto2>
+    </row>
+    <row>
+        <id>116</id>
+        <symbol1>024.59</symbol1>
+        <assunto1>Outros reembolsos</assunto1>
+        <symbol2>023.73</symbol2>
+        <assunto2>Ressarcimento de plano de saúde (Reembolso de despesas. Indenização)</assunto2>
+    </row>
+    <row>
+        <id>117</id>
+        <symbol1>024.9</symbol1>
+        <assunto1>Outros direitos, obrigações e vantagens</assunto1>
+        <symbol2>023.91</symbol2>
+        <assunto2>Contratação de seguro (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>118</id>
+        <symbol1>024.9</symbol1>
+        <assunto1>Outros direitos, obrigações e vantagens</assunto1>
+        <symbol2>023.92</symbol2>
+        <assunto2>Ocupação de imóvel funcional (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>119</id>
+        <symbol1>024.9</symbol1>
+        <assunto1>Outros direitos, obrigações e vantagens</assunto1>
+        <symbol2>023.93</symbol2>
+        <assunto2>Fornecimento de transporte (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>120</id>
+        <symbol1>024.91</symbol1>
+        <assunto1>Concessões</assunto1>
+        <symbol2>023.5</symbol2>
+        <assunto2>Concessões (Concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>121</id>
+        <symbol1>024.92</symbol1>
+        <assunto1>Auxílios</assunto1>
+        <symbol2>023.6</symbol2>
+        <assunto2>Auxílios (Concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>122</id>
+        <symbol1>025</symbol1>
+        <assunto1>Apuração de responsabilidade e ação disciplinar</assunto1>
+        <symbol2>027</symbol2>
+        <assunto2>Apuração de responsabilidade disciplinar</assunto2>
+    </row>
+    <row>
+        <id>123</id>
+        <symbol1>025.1</symbol1>
+        <assunto1>Denuncias. Sindicâncias. Inquéritos</assunto1>
+        <symbol2>027.1</symbol2>
+        <assunto2>Averiguação de denúncias</assunto2>
+    </row>
+    <row>
+        <id>124</id>
+        <symbol1>025.11</symbol1>
+        <assunto1>Processos disciplinares</assunto1>
+        <symbol2>027.1</symbol2>
+        <assunto2>Averiguação de denúncias</assunto2>
+    </row>
+    <row>
+        <id>125</id>
+        <symbol1>025.12</symbol1>
+        <assunto1>Penalidades disciplinares</assunto1>
+        <symbol2>027.2</symbol2>
+        <assunto2>Aplicação de penalidades disciplinares</assunto2>
+    </row>
+    <row>
+        <id>126</id>
+        <symbol1>026</symbol1>
+        <assunto1>Previdência, assistência e seguridade social</assunto1>
+        <symbol2>026</symbol2>
+        <assunto2>Concessão de benefícios de seguridade e previdência social</assunto2>
+    </row>
+    <row>
+        <id>127</id>
+        <symbol1>026.01</symbol1>
+        <assunto1>Previdência privada</assunto1>
+        <symbol2>026.01</symbol2>
+        <assunto2>Adesão à previdência complementar (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>128</id>
+        <symbol1>026.1</symbol1>
+        <assunto1>Benefícios</assunto1>
+        <symbol2>026</symbol2>
+        <assunto2>Concessão de benefícios de seguridade e previdência social</assunto2>
+    </row>
+    <row>
+        <id>129</id>
+        <symbol1>026.11</symbol1>
+        <assunto1>Seguros</assunto1>
+        <symbol2>023.91</symbol2>
+        <assunto2>Contratação de seguro (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>130</id>
+        <symbol1>026.12</symbol1>
+        <assunto1>Auxílios</assunto1>
+        <symbol2>026.3</symbol2>
+        <assunto2>Auxílios (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>131</id>
+        <symbol1>026.12</symbol1>
+        <assunto1>Auxílio reclusão</assunto1>
+        <symbol2>026.91</symbol2>
+        <assunto2>Auxílio reclusão (Outras ações referentes à concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>132</id>
+        <symbol1>026.13</symbol1>
+        <assunto1>Aposentadoria</assunto1>
+        <symbol2>026.51</symbol2>
+        <assunto2>Invalidez permanente (Aposentadoria)</assunto2>
+    </row>
+    <row>
+        <id>133</id>
+        <symbol1>026.13</symbol1>
+        <assunto1>Aposentadoria</assunto1>
+        <symbol2>026.52</symbol2>
+        <assunto2>Compulsória (Aposentadoria)</assunto2>
+    </row>
+    <row>
+        <id>134</id>
+        <symbol1>026.13</symbol1>
+        <assunto1>Aposentadoria</assunto1>
+        <symbol2>026.53</symbol2>
+        <assunto2>Voluntária (Aposentadoria)</assunto2>
+    </row>
+    <row>
+        <id>135</id>
+        <symbol1>026.13</symbol1>
+        <assunto1>Aposentadoria</assunto1>
+        <symbol2>026.54</symbol2>
+        <assunto2>Especial (Aposentadoria)</assunto2>
+    </row>
+    <row>
+        <id>136</id>
+        <symbol1>026.131</symbol1>
+        <assunto1>Contagem e averbação de tempo de serviço</assunto1>
+        <symbol2>026.02</symbol2>
+        <assunto2>Contagem e averbação de tempo de serviço (Concessão de benefícios de seguridade e previdência social)</assunto2>
+    </row>
+    <row>
+        <id>137</id>
+        <symbol1>026.132</symbol1>
+        <assunto1>Pensões: provisória, temporária e vitalícia</assunto1>
+        <symbol2>026.61</symbol2>
+        <assunto2>Pensão provisória. Pensão temporária</assunto2>
+    </row>
+    <row>
+        <id>138</id>
+        <symbol1>026.132</symbol1>
+        <assunto1>Pensões: provisória, temporária e vitalícia</assunto1>
+        <symbol2>026.62</symbol2>
+        <assunto2>Pensão vitalícia</assunto2>
+    </row>
+    <row>
+        <id>139</id>
+        <symbol1>026.19</symbol1>
+        <assunto1>Outros benefícios</assunto1>
+        <symbol2>026.9</symbol2>
+        <assunto2>Outras ações referentes à concessão de benefícios de seguridade e previdência social</assunto2>
+    </row>
+    <row>
+        <id>140</id>
+        <symbol1>026.191</symbol1>
+        <assunto1>Adiantamentos e empréstimos a servidores</assunto1>
+        <symbol2>023.175</symbol2>
+        <assunto2>Consignações facultativas</assunto2>
+    </row>
+    <row>
+        <id>141</id>
+        <symbol1>026.192</symbol1>
+        <assunto1>Assistência a saúde</assunto1>
+        <symbol2>025.11</symbol2>
+        <assunto2>Celebração de convênios de planos de saúde (Assistência à saúde)</assunto2>
+    </row>
+    <row>
+        <id>142</id>
+        <symbol1>026.192</symbol1>
+        <assunto1>Assistência a saúde</assunto1>
+        <symbol2>025.14</symbol2>
+        <assunto2>Prontuário médico e odontológico (Assistência à saúde)</assunto2>
+    </row>
+    <row>
+        <id>143</id>
+        <symbol1>026.193</symbol1>
+        <assunto1>Aquisição de imóveis</assunto1>
+        <symbol2>023.175</symbol2>
+        <assunto2>Consignações facultativas</assunto2>
+    </row>
+    <row>
+        <id>144</id>
+        <symbol1>026.194</symbol1>
+        <assunto1>Ocupação de próprios da união</assunto1>
+        <symbol2>023.92</symbol2>
+        <assunto2>Ocupação de imóvel funcional (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>145</id>
+        <symbol1>026.195</symbol1>
+        <assunto1>Transportes para servidores</assunto1>
+        <symbol2>023.93</symbol2>
+        <assunto2>Fornecimento de transporte (Outras ações referentes à concessão de direitos e vantagens)</assunto2>
+    </row>
+    <row>
+        <id>146</id>
+        <symbol1>026.2</symbol1>
+        <assunto1>Higiene e segurança do trabalho</assunto1>
+        <symbol2>025.31</symbol2>
+        <assunto2>Constituição da comissão interna de prevenção de acidentes (Cipa) (Segurança do trabalho. Prevenção de acidentes de trabalho)</assunto2>
+    </row>
+    <row>
+        <id>147</id>
+        <symbol1>026.2</symbol1>
+        <assunto1>Higiene e segurança do trabalho</assunto1>
+        <symbol2>025.32</symbol2>
+        <assunto2>Registro de ocorrências de acidentes de trabalho (Segurança do trabalho. Prevenção de acidentes de trabalho)</assunto2>
+    </row>
+    <row>
+        <id>148</id>
+        <symbol1>026.21</symbol1>
+        <assunto1>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</assunto1>
+        <symbol2>025.311</symbol2>
+        <assunto2>Composição e atuação (Constituição da comissão interna de prevenção de acidentes)</assunto2>
+    </row>
+    <row>
+        <id>149</id>
+        <symbol1>026.21</symbol1>
+        <assunto1>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</assunto1>
+        <symbol2>025.312</symbol2>
+        <assunto2>Operacionalização de reuniões (Constituição da comissão interna de prevenção de acidentes)</assunto2>
+    </row>
+    <row>
+        <id>150</id>
+        <symbol1>026.21</symbol1>
+        <assunto1>Prevenção de acidentes de trabalho. Comissão interna de prevenção de acidentes (Cipa)</assunto1>
+        <symbol2>025.32</symbol2>
+        <assunto2>Registro de ocorrências de acidentes de trabalho (Segurança do trabalho. Prevenção de acidentes de trabalho)</assunto2>
+    </row>
+    <row>
+        <id>151</id>
+        <symbol1>026.22</symbol1>
+        <assunto1>Refeitórios, cantinas e copas</assunto1>
+        <symbol2>025.22</symbol2>
+        <assunto2>Oferta de serviços de refeitório, cantinas e copas (Preservação da saúde e higiene)</assunto2>
+    </row>
+    <row>
+        <id>152</id>
+        <symbol1>026.23</symbol1>
+        <assunto1>Inspeções periódicas de saúde</assunto1>
+        <symbol2>025.14</symbol2>
+        <assunto2>Prontuário médico e odontológico (Assistência à saúde)</assunto2>
+    </row>
+    <row>
+        <id>153</id>
+        <symbol1>029</symbol1>
+        <assunto1>Outros assuntos referentes a pessoal</assunto1>
+        <symbol2>029</symbol2>
+        <assunto2>Outras ações referentes à gestão de pessoas</assunto2>
+    </row>
+    <row>
+        <id>154</id>
+        <symbol1>029.1</symbol1>
+        <assunto1>Horário de expediente</assunto1>
+        <symbol2>029.12</symbol2>
+        <assunto2>Definição do horário de expediente (Controle de assiduidade e pontualidade )</assunto2>
+    </row>
+    <row>
+        <id>155</id>
+        <symbol1>029.11</symbol1>
+        <assunto1>Controle de frequência</assunto1>
+        <symbol2>029.11</symbol2>
+        <assunto2>Controle de frequência (Controle de assiduidade e pontualidade)</assunto2>
+    </row>
+    <row>
+        <id>156</id>
+        <symbol1>029.2</symbol1>
+        <assunto1>Missões fora da sede. Viagens a serviço</assunto1>
+        <symbol2>028</symbol2>
+        <assunto2>Cumprimento de missões e viagens a serviço</assunto2>
+    </row>
+    <row>
+        <id>157</id>
+        <symbol1>029.21</symbol1>
+        <assunto1>No país</assunto1>
+        <symbol2>028.11</symbol2>
+        <assunto2>Com ônus (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>158</id>
+        <symbol1>029.21</symbol1>
+        <assunto1>No país</assunto1>
+        <symbol2>028.12</symbol2>
+        <assunto2>Com ônus limitado (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>159</id>
+        <symbol1>029.22</symbol1>
+        <assunto1>No exterior</assunto1>
+        <symbol2>028.2</symbol2>
+        <assunto2>No exterior (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>160</id>
+        <symbol1>029.221</symbol1>
+        <assunto1>Sem ônus para a instituição</assunto1>
+        <symbol2>028.23</symbol2>
+        <assunto2>Sem ônus (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>161</id>
+        <symbol1>029.222</symbol1>
+        <assunto1>Com ônus para a instituição</assunto1>
+        <symbol2>028.21</symbol2>
+        <assunto2>Com ônus (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>162</id>
+        <symbol1>029.222</symbol1>
+        <assunto1>Com ônus para a instituição</assunto1>
+        <symbol2>028.22</symbol2>
+        <assunto2>Com ônus limitado (Cumprimento de missões e viagens a serviço)</assunto2>
+    </row>
+    <row>
+        <id>163</id>
+        <symbol1>029.3</symbol1>
+        <assunto1>Incentivos funcionais</assunto1>
+        <symbol2>029.3</symbol2>
+        <assunto2>Incentivos funcionais</assunto2>
+    </row>
+    <row>
+        <id>164</id>
+        <symbol1>029.31</symbol1>
+        <assunto1>Prêmios</assunto1>
+        <symbol2>029.3</symbol2>
+        <assunto2>Incentivos funcionais</assunto2>
+    </row>
+    <row>
+        <id>165</id>
+        <symbol1>029.4</symbol1>
+        <assunto1>Delegações de competência. Procuração</assunto1>
+        <symbol2>029.4</symbol2>
+        <assunto2>Delegação de competência e procuração</assunto2>
+    </row>
+    <row>
+        <id>166</id>
+        <symbol1>029.5</symbol1>
+        <assunto1>Serviços profissionais transitórios: autônomos e colaboradores</assunto1>
+        <symbol2>029.5</symbol2>
+        <assunto2>Contratação de serviços profissionais transitórios</assunto2>
+    </row>
+    <row>
+        <id>167</id>
+        <symbol1>029.6</symbol1>
+        <assunto1>Ações trabalhistas. Reclamações trabalhistas</assunto1>
+        <symbol2>004.21</symbol2>
+        <assunto2>Representação judicial (Atuação em contencioso)</assunto2>
+    </row>
+    <row>
+        <id>168</id>
+        <symbol1>029.6</symbol1>
+        <assunto1>Ações trabalhistas. Reclamações trabalhistas</assunto1>
+        <symbol2>004.22</symbol2>
+        <assunto2>Representação extrajudicial (Atuação em contencioso)</assunto2>
+    </row>
+    <row>
+        <id>169</id>
+        <symbol1>029.7</symbol1>
+        <assunto1>Movimentos reivindicatórios: greves e paralisações</assunto1>
+        <symbol2>020.032</symbol2>
+        <assunto2>Movimentos reivindicatórios. Greves. Paralisações</assunto2>
+    </row>
+    <row>
+        <id>170</id>
+        <symbol1>030</symbol1>
+        <assunto1>Material</assunto1>
+        <symbol2>030</symbol2>
+        <assunto2>Gestão de materiais</assunto2>
+    </row>
+    <row>
+        <id>171</id>
+        <symbol1>030</symbol1>
+        <assunto1>Material</assunto1>
+        <symbol2>030.01</symbol2>
+        <assunto2>Normatização. Regulamentação</assunto2>
+    </row>
+    <row>
+        <id>172</id>
+        <symbol1>030.1</symbol1>
+        <assunto1>Cadastro de fornecedores</assunto1>
+        <symbol2>030.02</symbol2>
+        <assunto2>Cadastramento de fornecedores e de prestadores de serviços</assunto2>
+    </row>
+    <row>
+        <id>173</id>
+        <symbol1>031</symbol1>
+        <assunto1>Especificação. Padronização. Codificação. Previsão. Catálogo. Identificação. Classificação</assunto1>
+        <symbol2>030.03</symbol2>
+        <assunto2>Especificação, padronização, codificação, previsão, identificação e classificação</assunto2>
+    </row>
+    <row>
+        <id>174</id>
+        <symbol1>032</symbol1>
+        <assunto1>Requisição e controle de serviços reprográficos</assunto1>
+        <symbol2>069.2</symbol2>
+        <assunto2>Fornecimento de cópias de documentos</assunto2>
+    </row>
+    <row>
+        <id>175</id>
+        <symbol1>033</symbol1>
+        <assunto1>Aquisição</assunto1>
+        <symbol2>031</symbol2>
+        <assunto2>Aquisição e incorporação</assunto2>
+    </row>
+    <row>
+        <id>176</id>
+        <symbol1>033.1</symbol1>
+        <assunto1>Material permanente</assunto1>
+        <symbol2>031.11</symbol2>
+        <assunto2>Material permanente (Compra / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>177</id>
+        <symbol1>033.11</symbol1>
+        <assunto1>Compra</assunto1>
+        <symbol2>031.1</symbol2>
+        <assunto2>Compra (Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>178</id>
+        <symbol1>033.12</symbol1>
+        <assunto1>Aluguel. Comodato. Leasing</assunto1>
+        <symbol2>031.41</symbol2>
+        <assunto2>Material permanente (Cessão, comodato e empréstimo / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>179</id>
+        <symbol1>033.12</symbol1>
+        <assunto1>Aluguel. Comodato. Leasing</assunto1>
+        <symbol2>031.5</symbol2>
+        <assunto2>Locação. Arrendamento mercantil (leasing) (Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>180</id>
+        <symbol1>033.13</symbol1>
+        <assunto1>Empréstimo. Doação. Cessão. Permuta</assunto1>
+        <symbol2>031.21</symbol2>
+        <assunto2>Material permanente (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>181</id>
+        <symbol1>033.13</symbol1>
+        <assunto1>Empréstimo. Doação. Cessão. Permuta</assunto1>
+        <symbol2>031.41</symbol2>
+        <assunto2>Material permanente (Cessão, comodato e empréstimo / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>182</id>
+        <symbol1>033.2</symbol1>
+        <assunto1>Material de consumo</assunto1>
+        <symbol2>031.12</symbol2>
+        <assunto2>Material de consumo (Compra / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>183</id>
+        <symbol1>033.21</symbol1>
+        <assunto1>Compra</assunto1>
+        <symbol2>031.1</symbol2>
+        <assunto2>Compra (Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>184</id>
+        <symbol1>033.22</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>031.22</symbol2>
+        <assunto2>Material de consumo (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>185</id>
+        <symbol1>033.22</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>031.42</symbol2>
+        <assunto2>Material de consumo (Cessão, comodato e empréstimo / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>186</id>
+        <symbol1>033.23</symbol1>
+        <assunto1>Confecção de impressos</assunto1>
+        <symbol2>034</symbol2>
+        <assunto2>Contratação de prestação de serviços</assunto2>
+    </row>
+    <row>
+        <id>187</id>
+        <symbol1>034</symbol1>
+        <assunto1>Movimentação de material</assunto1>
+        <symbol2>032</symbol2>
+        <assunto2>Movimentação de material</assunto2>
+    </row>
+    <row>
+        <id>188</id>
+        <symbol1>034.01</symbol1>
+        <assunto1>Termos de responsabilidade</assunto1>
+        <symbol2>032.01</symbol2>
+        <assunto2>Termo de responsabilidade. Cautela (Movimentação de material)</assunto2>
+    </row>
+    <row>
+        <id>189</id>
+        <symbol1>034.1</symbol1>
+        <assunto1>Controle de estoque</assunto1>
+        <symbol2>032.1</symbol2>
+        <assunto2>Controle de estoque (Movimentação de material)</assunto2>
+    </row>
+    <row>
+        <id>190</id>
+        <symbol1>034.2</symbol1>
+        <assunto1>Extravio. Roubo. Desaparecimento</assunto1>
+        <symbol2>033.6</symbol2>
+        <assunto2>Extravio, roubo, desaparecimento, furto e avaria (Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>191</id>
+        <symbol1>034.3</symbol1>
+        <assunto1>Transporte de material</assunto1>
+        <symbol2>034</symbol2>
+        <assunto2>Contratação de prestação de serviços</assunto2>
+    </row>
+    <row>
+        <id>192</id>
+        <symbol1>034.4</symbol1>
+        <assunto1>Autorização de saída de material</assunto1>
+        <symbol2>032.2</symbol2>
+        <assunto2>Autorização de entrada e saída de material (Movimentação de material)</assunto2>
+    </row>
+    <row>
+        <id>193</id>
+        <symbol1>034.5</symbol1>
+        <assunto1>Recolhimento de material ao depósito</assunto1>
+        <symbol2>032.3</symbol2>
+        <assunto2>Recolhimento de material ao depósito (Movimentação de material)</assunto2>
+    </row>
+    <row>
+        <id>194</id>
+        <symbol1>035</symbol1>
+        <assunto1>Alienação. Baixa</assunto1>
+        <symbol2>033</symbol2>
+        <assunto2>Alienação e baixa</assunto2>
+    </row>
+    <row>
+        <id>195</id>
+        <symbol1>035.1</symbol1>
+        <assunto1>Venda</assunto1>
+        <symbol2>033.11</symbol2>
+        <assunto2>Material permanente (Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>196</id>
+        <symbol1>035.1</symbol1>
+        <assunto1>Venda</assunto1>
+        <symbol2>033.12</symbol2>
+        <assunto2>Material de consumo (Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>197</id>
+        <symbol1>035.2</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>033.21</symbol2>
+        <assunto2>Material permanente (Doação e permuta / Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>198</id>
+        <symbol1>035.2</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>033.22</symbol2>
+        <assunto2>Material de consumo (Doação e permuta / Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>199</id>
+        <symbol1>035.2</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>033.51</symbol2>
+        <assunto2>Material permanente (Cessão, comodato e empréstimo / Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>200</id>
+        <symbol1>035.2</symbol1>
+        <assunto1>Cessão. Doação. Permuta</assunto1>
+        <symbol2>033.52</symbol2>
+        <assunto2>Material de consumo (Cessão, comodato e empréstimo / Alienação e baixa)</assunto2>
+    </row>
+    <row>
+        <id>201</id>
+        <symbol1>036</symbol1>
+        <assunto1>Instalação e manutenção</assunto1>
+        <symbol2>034</symbol2>
+        <assunto2>Contratação de prestação de serviços</assunto2>
+    </row>
+    <row>
+        <id>202</id>
+        <symbol1>036.1</symbol1>
+        <assunto1>Requisição e contratação de serviços</assunto1>
+        <symbol2>034</symbol2>
+        <assunto2>Contratação de prestação de serviços</assunto2>
+    </row>
+    <row>
+        <id>203</id>
+        <symbol1>036.2</symbol1>
+        <assunto1>Serviços executados em oficinas do órgão</assunto1>
+        <symbol2>035</symbol2>
+        <assunto2>Execução de serviços de instalação e manutenção</assunto2>
+    </row>
+    <row>
+        <id>204</id>
+        <symbol1>037</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>036</symbol2>
+        <assunto2>Controle de materiais</assunto2>
+    </row>
+    <row>
+        <id>205</id>
+        <symbol1>037.1</symbol1>
+        <assunto1>Material permanente</assunto1>
+        <symbol2>036.1</symbol2>
+        <assunto2>Inventário de material permanente (Controle de materiais)</assunto2>
+    </row>
+    <row>
+        <id>206</id>
+        <symbol1>037.2</symbol1>
+        <assunto1>Material de consumo</assunto1>
+        <symbol2>036.2</symbol2>
+        <assunto2>Inventário de material de consumo (Controle de materiais)</assunto2>
+    </row>
+    <row>
+        <id>207</id>
+        <symbol1>039</symbol1>
+        <assunto1>Outros assuntos referentes a material</assunto1>
+        <symbol2>039</symbol2>
+        <assunto2>Outras ações referentes à gestão de material</assunto2>
+    </row>
+    <row>
+        <id>208</id>
+        <symbol1>040</symbol1>
+        <assunto1>Patrimônio</assunto1>
+        <symbol2>040</symbol2>
+        <assunto2>Gestão de bens patrimoniais e de serviços</assunto2>
+    </row>
+    <row>
+        <id>209</id>
+        <symbol1>040</symbol1>
+        <assunto1>Patrimônio</assunto1>
+        <symbol2>040.01</symbol2>
+        <assunto2>Normatização. Regulamentação</assunto2>
+    </row>
+    <row>
+        <id>210</id>
+        <symbol1>041</symbol1>
+        <assunto1>Bens imóveis</assunto1>
+        <symbol2>043.1</symbol2>
+        <assunto2>Registro dos imóveis (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>211</id>
+        <symbol1>041.01</symbol1>
+        <assunto1>Fornecimento e manutenção de serviços básicos</assunto1>
+        <symbol2>045.1</symbol2>
+        <assunto2>Fornecimento de serviços públicos essenciais (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>212</id>
+        <symbol1>041.011</symbol1>
+        <assunto1>Água e esgoto</assunto1>
+        <symbol2>045.11</symbol2>
+        <assunto2>Água e esgotamento sanitário (Fornecimento de serviços públicos essenciais)</assunto2>
+    </row>
+    <row>
+        <id>213</id>
+        <symbol1>041.012</symbol1>
+        <assunto1>Gás</assunto1>
+        <symbol2>045.12</symbol2>
+        <assunto2>Gás (Fornecimento de serviços públicos essenciais)</assunto2>
+    </row>
+    <row>
+        <id>214</id>
+        <symbol1>041.013</symbol1>
+        <assunto1>Luz e força</assunto1>
+        <symbol2>045.13</symbol2>
+        <assunto2>Energia elétrica (Fornecimento de serviços públicos essenciais)</assunto2>
+    </row>
+    <row>
+        <id>215</id>
+        <symbol1>041.02</symbol1>
+        <assunto1>Comissão interna de conservação de energia</assunto1>
+        <symbol2>049.1</symbol2>
+        <assunto2>Racionalização do uso de bens e serviços</assunto2>
+    </row>
+    <row>
+        <id>216</id>
+        <symbol1>041.02</symbol1>
+        <assunto1>Condomínio</assunto1>
+        <symbol2>043.2</symbol2>
+        <assunto2>Serviços de condomínio (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>217</id>
+        <symbol1>041.1</symbol1>
+        <assunto1>Aquisição</assunto1>
+        <symbol2>041</symbol2>
+        <assunto2>Aquisição e incorporação</assunto2>
+    </row>
+    <row>
+        <id>218</id>
+        <symbol1>041.11</symbol1>
+        <assunto1>Compra</assunto1>
+        <symbol2>041.11</symbol2>
+        <assunto2>Bens imóveis (Compra / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>219</id>
+        <symbol1>041.12</symbol1>
+        <assunto1>Cessão</assunto1>
+        <symbol2>041.51</symbol2>
+        <assunto2>Bens imóveis (Cessão e comodato / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>220</id>
+        <symbol1>041.13</symbol1>
+        <assunto1>Doação</assunto1>
+        <symbol2>041.21</symbol2>
+        <assunto2>Bens imóveis (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>221</id>
+        <symbol1>041.14</symbol1>
+        <assunto1>Permuta</assunto1>
+        <symbol2>041.21</symbol2>
+        <assunto2>Bens imóveis (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>222</id>
+        <symbol1>041.15</symbol1>
+        <assunto1>Locação. Arrendamento. Comodato</assunto1>
+        <symbol2>041.51</symbol2>
+        <assunto2>Bens imóveis (Cessão e comodato / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>223</id>
+        <symbol1>041.15</symbol1>
+        <assunto1>Locação. Arrendamento. Comodato</assunto1>
+        <symbol2>041.61</symbol2>
+        <assunto2>Bens imóveis (Locação, arrendamento mercantil (leasing). Sublocação / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>224</id>
+        <symbol1>041.15</symbol1>
+        <assunto1>Locação. Arrendamento. Comodato</assunto1>
+        <symbol2>042.6</symbol2>
+        <assunto2>Bens imóveis (Locação. Arrendamento. Sublocação / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>225</id>
+        <symbol1>041.2</symbol1>
+        <assunto1>Alienação</assunto1>
+        <symbol2>042</symbol2>
+        <assunto2>Alienação</assunto2>
+    </row>
+    <row>
+        <id>226</id>
+        <symbol1>041.21</symbol1>
+        <assunto1>Venda</assunto1>
+        <symbol2>042.11</symbol2>
+        <assunto2>Bens imóveis (Venda / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>227</id>
+        <symbol1>041.22</symbol1>
+        <assunto1>Cessão</assunto1>
+        <symbol2>042.51</symbol2>
+        <assunto2>Bens imóveis (Cessão e comodato / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>228</id>
+        <symbol1>041.23</symbol1>
+        <assunto1>Doação</assunto1>
+        <symbol2>042.21</symbol2>
+        <assunto2>Bens imóveis (Doação e permuta / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>229</id>
+        <symbol1>041.24</symbol1>
+        <assunto1>Permuta</assunto1>
+        <symbol2>042.21</symbol2>
+        <assunto2>Bens imóveis (Doação e permuta / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>230</id>
+        <symbol1>041.3</symbol1>
+        <assunto1>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</assunto1>
+        <symbol2>042.4</symbol2>
+        <assunto2>Desapropriação e desmembramento (Alienação)</assunto2>
+    </row>
+    <row>
+        <id>231</id>
+        <symbol1>041.3</symbol1>
+        <assunto1>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</assunto1>
+        <symbol2>043.3</symbol2>
+        <assunto2>Reintegração de posse. Reivindicação de domínio. Despejo de permissionário (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>232</id>
+        <symbol1>041.3</symbol1>
+        <assunto1>Desapropriação. Reintegração de posse. Reivindicação de domínio. Tombamento</assunto1>
+        <symbol2>043.4</symbol2>
+        <assunto2>Tombamento (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>233</id>
+        <symbol1>041.4</symbol1>
+        <assunto1>Obras</assunto1>
+        <symbol2>045.3</symbol2>
+        <assunto2>Execução de obras (Contratação e prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>234</id>
+        <symbol1>041.41</symbol1>
+        <assunto1>Reforma. Recuperação. Restauração</assunto1>
+        <symbol2>045.32</symbol2>
+        <assunto2>Reforma. Recuperação. Restauração (Execução de obras / Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>235</id>
+        <symbol1>041.42</symbol1>
+        <assunto1>Construção</assunto1>
+        <symbol2>045.31</symbol2>
+        <assunto2>Construção (Execução de obras / Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>236</id>
+        <symbol1>041.5</symbol1>
+        <assunto1>Serviços de manutenção</assunto1>
+        <symbol2>045.2</symbol2>
+        <assunto2>Manutenção e reparo das instalações (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>237</id>
+        <symbol1>041.51</symbol1>
+        <assunto1>Manutenção de elevadores</assunto1>
+        <symbol2>045.21</symbol2>
+        <assunto2>Elevadores (Manutenção e reparo das instalações)</assunto2>
+    </row>
+    <row>
+        <id>238</id>
+        <symbol1>041.52</symbol1>
+        <assunto1>Manutenção de ar-condicionado</assunto1>
+        <symbol2>045.22</symbol2>
+        <assunto2>Sistemas centrais de ar-condicionado (Manutenção e reparo das instalações)</assunto2>
+    </row>
+    <row>
+        <id>239</id>
+        <symbol1>041.53</symbol1>
+        <assunto1>Manutenção de subestações e geradores</assunto1>
+        <symbol2>045.23</symbol2>
+        <assunto2>Subestações elétricas e geradores (Manutenção e reparo das instalações)</assunto2>
+    </row>
+    <row>
+        <id>240</id>
+        <symbol1>041.54</symbol1>
+        <assunto1>Limpeza. Imunização. Desinfestação</assunto1>
+        <symbol2>045.24</symbol2>
+        <assunto2>Conservação predial (Manutenção e reparo das instalações)</assunto2>
+    </row>
+    <row>
+        <id>241</id>
+        <symbol1>041.59</symbol1>
+        <assunto1>Outros serviços de manutenção</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>242</id>
+        <symbol1>042</symbol1>
+        <assunto1>Veículos</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>243</id>
+        <symbol1>042.1</symbol1>
+        <assunto1>Aquisição</assunto1>
+        <symbol2>041.1</symbol2>
+        <assunto2>Compra (Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>244</id>
+        <symbol1>042.11</symbol1>
+        <assunto1>Compra</assunto1>
+        <symbol2>041.12</symbol2>
+        <assunto2>Veículos (Compra / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>245</id>
+        <symbol1>042.12</symbol1>
+        <assunto1>Aluguel</assunto1>
+        <symbol2>041.62</symbol2>
+        <assunto2>Veículos (Locação. Arrendamento mercantil (leasing). Sublocação / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>246</id>
+        <symbol1>042.13</symbol1>
+        <assunto1>Cessão. Doação. Permuta. Transferência</assunto1>
+        <symbol2>041.22</symbol2>
+        <assunto2>Veículos (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>247</id>
+        <symbol1>042.13</symbol1>
+        <assunto1>Cessão. Doação. Permuta. Transferência</assunto1>
+        <symbol2>041.52</symbol2>
+        <assunto2>Veículos (Cessão e comodato / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>248</id>
+        <symbol1>042.2</symbol1>
+        <assunto1>Cadastro. Licenciamento. Emplacamento. Tombamento</assunto1>
+        <symbol2>044.1</symbol2>
+        <assunto2>Cadastramento, licenciamento e emplacamento (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>249</id>
+        <symbol1>042.2</symbol1>
+        <assunto1>Cadastro. Licenciamento. Emplacamento. Tombamento</assunto1>
+        <symbol2>044.2</symbol2>
+        <assunto2>Tombamento (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>250</id>
+        <symbol1>042.3</symbol1>
+        <assunto1>Alienação</assunto1>
+        <symbol2>042</symbol2>
+        <assunto2>Alienação</assunto2>
+    </row>
+    <row>
+        <id>251</id>
+        <symbol1>042.31</symbol1>
+        <assunto1>Venda</assunto1>
+        <symbol2>042.12</symbol2>
+        <assunto2>Veículos (Venda / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>252</id>
+        <symbol1>042.32</symbol1>
+        <assunto1>Cessão. Doação. Permuta. Transferência</assunto1>
+        <symbol2>042.22</symbol2>
+        <assunto2>Veículos (Doação e permuta / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>253</id>
+        <symbol1>042.32</symbol1>
+        <assunto1>Cessão. Doação. Permuta. Transferência</assunto1>
+        <symbol2>042.52</symbol2>
+        <assunto2>Veículos (Cessão e comodato / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>254</id>
+        <symbol1>042.4</symbol1>
+        <assunto1>Abastecimento. Limpeza. Manutenção. Reparo</assunto1>
+        <symbol2>045.5</symbol2>
+        <assunto2>Abastecimento e manutenção de veículos (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>255</id>
+        <symbol1>042.5</symbol1>
+        <assunto1>Acidentes. Infrações. Multas</assunto1>
+        <symbol2>044.3</symbol2>
+        <assunto2>Ocorrência de sinistros (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>256</id>
+        <symbol1>042.5</symbol1>
+        <assunto1>Acidentes. Infrações. Multas</assunto1>
+        <symbol2>044.6</symbol2>
+        <assunto2>Notificações de infrações e multas (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>257</id>
+        <symbol1>042.9</symbol1>
+        <assunto1>Outros assuntos referentes a veículos</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>258</id>
+        <symbol1>042.91</symbol1>
+        <assunto1>Controle de uso de veículos</assunto1>
+        <symbol2>044.4</symbol2>
+        <assunto2>Controle de uso (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>259</id>
+        <symbol1>042.911</symbol1>
+        <assunto1>Requisição</assunto1>
+        <symbol2>044.4</symbol2>
+        <assunto2>Controle de uso (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>260</id>
+        <symbol1>042.912</symbol1>
+        <assunto1>Autorização para uso fora do horário do expediente</assunto1>
+        <symbol2>044.4</symbol2>
+        <assunto2>Controle de uso (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>261</id>
+        <symbol1>042.913</symbol1>
+        <assunto1>Estacionamento. Garagem</assunto1>
+        <symbol2>044.5</symbol2>
+        <assunto2>Estacionamento. Garagem (Administração da frota de veículos)</assunto2>
+    </row>
+    <row>
+        <id>262</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>041.13</symbol2>
+        <assunto2>Bens semoventes (Compra / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>263</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>041.23</symbol2>
+        <assunto2>Bens semoventes (Doação e permuta / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>264</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>041.4</symbol2>
+        <assunto2>Procriação (Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>265</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>041.53</symbol2>
+        <assunto2>Bens semoventes (Cessão e comodato / Aquisição e incorporação)</assunto2>
+    </row>
+    <row>
+        <id>266</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>042.13</symbol2>
+        <assunto2>Bens semoventes (Venda / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>267</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>042.23</symbol2>
+        <assunto2>Bens semoventes (Doação e permuta / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>268</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>042.53</symbol2>
+        <assunto2>Bens semoventes (Cessão e comodato / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>269</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>042.72</symbol2>
+        <assunto2>Bens semoventes (Baixa. Desfazimento / Alienação)</assunto2>
+    </row>
+    <row>
+        <id>270</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>045.6</symbol2>
+        <assunto2>Assistência veterinária (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>271</id>
+        <symbol1>043</symbol1>
+        <assunto1>Bens semoventes</assunto1>
+        <symbol2>045.7</symbol2>
+        <assunto2>Adestramento (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>272</id>
+        <symbol1>044</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>047.01</symbol2>
+        <assunto2>Comissão de inventário (Controle de bens patrimoniais)</assunto2>
+    </row>
+    <row>
+        <id>273</id>
+        <symbol1>044</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>047.1</symbol2>
+        <assunto2>Inventário de bens imóveis (Controle de bens patrimoniais)</assunto2>
+    </row>
+    <row>
+        <id>274</id>
+        <symbol1>044</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>047.2</symbol2>
+        <assunto2>Inventário de veículos (Controle de bens patrimoniais)</assunto2>
+    </row>
+    <row>
+        <id>275</id>
+        <symbol1>044</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>047.3</symbol2>
+        <assunto2>Inventário de bens semoventes (Controle de bens patrimoniais)</assunto2>
+    </row>
+    <row>
+        <id>276</id>
+        <symbol1>049</symbol1>
+        <assunto1>Outros assuntos referentes a patrimônio</assunto1>
+        <symbol2>049</symbol2>
+        <assunto2>Outras ações referentes à gestão de bens patrimoniais e de serviços</assunto2>
+    </row>
+    <row>
+        <id>277</id>
+        <symbol1>049.1</symbol1>
+        <assunto1>Guarda e segurança</assunto1>
+        <symbol2>045.4</symbol2>
+        <assunto2>Vigilância patrimonial (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>278</id>
+        <symbol1>049.1</symbol1>
+        <assunto1>Guarda e segurança</assunto1>
+        <symbol2>046.2</symbol2>
+        <assunto2>Monitoramento. Vigilância (Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>279</id>
+        <symbol1>049.11</symbol1>
+        <assunto1>Serviços de vigilância</assunto1>
+        <symbol2>045.4</symbol2>
+        <assunto2>Vigilância patrimonial (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>280</id>
+        <symbol1>049.11</symbol1>
+        <assunto1>Serviços de vigilância</assunto1>
+        <symbol2>046.2</symbol2>
+        <assunto2>Monitoramento. Vigilância (Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>281</id>
+        <symbol1>049.12</symbol1>
+        <assunto1>Seguros</assunto1>
+        <symbol2>045.01</symbol2>
+        <assunto2>Seguro patrimonial (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>282</id>
+        <symbol1>049.13</symbol1>
+        <assunto1>Prevenção de incêndio</assunto1>
+        <symbol2>046.11</symbol2>
+        <assunto2>Planejamento, elaboração e acompanhamento de projetos (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>283</id>
+        <symbol1>049.13</symbol1>
+        <assunto1>Prevenção de incêndio</assunto1>
+        <symbol2>046.12</symbol2>
+        <assunto2>Constituição de brigada voluntária (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>284</id>
+        <symbol1>049.13</symbol1>
+        <assunto1>Prevenção de incêndio</assunto1>
+        <symbol2>046.13</symbol2>
+        <assunto2>Instalação e manutenção de equipamentos de combate a incêndio (Prevenção de incêndio / Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>285</id>
+        <symbol1>049.14</symbol1>
+        <assunto1>Sinistro</assunto1>
+        <symbol2>046.3</symbol2>
+        <assunto2>Ocorrência de sinistros (Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>286</id>
+        <symbol1>049.15</symbol1>
+        <assunto1>Controle de portaria</assunto1>
+        <symbol2>046.4</symbol2>
+        <assunto2>Controle de portaria (Proteção, guarda e segurança patrimonial)</assunto2>
+    </row>
+    <row>
+        <id>287</id>
+        <symbol1>049.2</symbol1>
+        <assunto1>Mudanças</assunto1>
+        <symbol2>043.6</symbol2>
+        <assunto2>Mudança (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>288</id>
+        <symbol1>049.21</symbol1>
+        <assunto1>Para outros imóveis</assunto1>
+        <symbol2>043.61</symbol2>
+        <assunto2>Para outros imóveis (Mudança / Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>289</id>
+        <symbol1>049.22</symbol1>
+        <assunto1>Dentro do mesmo imóvel</assunto1>
+        <symbol2>043.62</symbol2>
+        <assunto2>Dentro do mesmo imóvel (Mudança / Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>290</id>
+        <symbol1>049.3</symbol1>
+        <assunto1>Uso de dependências</assunto1>
+        <symbol2>043.7</symbol2>
+        <assunto2>Uso de dependências (Administração condominial)</assunto2>
+    </row>
+    <row>
+        <id>291</id>
+        <symbol1>050</symbol1>
+        <assunto1>Orçamento e finanças</assunto1>
+        <symbol2>050</symbol2>
+        <assunto2>Gestão orçamentária e financeira</assunto2>
+    </row>
+    <row>
+        <id>292</id>
+        <symbol1>050.1</symbol1>
+        <assunto1>Auditoria</assunto1>
+        <symbol2>054.1</symbol2>
+        <assunto2>Prestação de contas. Tomada de contas (Controle externo. Auditoria externa)</assunto2>
+    </row>
+    <row>
+        <id>293</id>
+        <symbol1>050.1</symbol1>
+        <assunto1>Auditoria</assunto1>
+        <symbol2>054.2</symbol2>
+        <assunto2>Tomada de contas especial (Controle externo. Auditoria externa)</assunto2>
+    </row>
+    <row>
+        <id>294</id>
+        <symbol1>051</symbol1>
+        <assunto1>Orçamento</assunto1>
+        <symbol2>051</symbol2>
+        <assunto2>Gestão orçamentária</assunto2>
+    </row>
+    <row>
+        <id>295</id>
+        <symbol1>051.1</symbol1>
+        <assunto1>Programação orçamentária</assunto1>
+        <symbol2>051.1</symbol2>
+        <assunto2>Programação orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>296</id>
+        <symbol1>051.11</symbol1>
+        <assunto1>Previsão orçamentária</assunto1>
+        <symbol2>051.1</symbol2>
+        <assunto2>Programação orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>297</id>
+        <symbol1>051.12</symbol1>
+        <assunto1>Proposta orçamentária</assunto1>
+        <symbol2>051.1</symbol2>
+        <assunto2>Programação orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>298</id>
+        <symbol1>051.13</symbol1>
+        <assunto1>Quadro de detalhamento de despesas (QDD)</assunto1>
+        <symbol2>051.2</symbol2>
+        <assunto2>Detalhamento de despesa (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>299</id>
+        <symbol1>051.14</symbol1>
+        <assunto1>Créditos adicionais</assunto1>
+        <symbol2>051.4</symbol2>
+        <assunto2>Retificação orçamentária. Créditos adicionais (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>300</id>
+        <symbol1>051.2</symbol1>
+        <assunto1>Execução orçamentária</assunto1>
+        <symbol2>051.3</symbol2>
+        <assunto2>Execução orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>301</id>
+        <symbol1>051.21</symbol1>
+        <assunto1>Descentralização de recursos</assunto1>
+        <symbol2>051.3</symbol2>
+        <assunto2>Execução orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>302</id>
+        <symbol1>051.22</symbol1>
+        <assunto1>Acompanhamento de despesa mensal</assunto1>
+        <symbol2>051.3</symbol2>
+        <assunto2>Execução orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>303</id>
+        <symbol1>051.23</symbol1>
+        <assunto1>Plano operativo. Cronograma de desembolso</assunto1>
+        <symbol2>051.3</symbol2>
+        <assunto2>Execução orçamentária (Gestão orçamentária)</assunto2>
+    </row>
+    <row>
+        <id>304</id>
+        <symbol1>052</symbol1>
+        <assunto1>Finanças</assunto1>
+        <symbol2>052</symbol2>
+        <assunto2>Gestão financeira</assunto2>
+    </row>
+    <row>
+        <id>305</id>
+        <symbol1>052.1</symbol1>
+        <assunto1>Programação financeira de desembolso</assunto1>
+        <symbol2>052.1</symbol2>
+        <assunto2>Programação financeira (Gestão financeira)</assunto2>
+    </row>
+    <row>
+        <id>306</id>
+        <symbol1>052.2</symbol1>
+        <assunto1>Execução financeira</assunto1>
+        <symbol2>052.2</symbol2>
+        <assunto2>Execução financeira (Gestão financeira)</assunto2>
+    </row>
+    <row>
+        <id>307</id>
+        <symbol1>052.21</symbol1>
+        <assunto1>Receita</assunto1>
+        <symbol2>052.211</symbol2>
+        <assunto2>Receita corrente (Receita / Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>308</id>
+        <symbol1>052.21</symbol1>
+        <assunto1>Receita</assunto1>
+        <symbol2>052.212</symbol2>
+        <assunto2>Receita de capital (Receita / Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>309</id>
+        <symbol1>052.21</symbol1>
+        <assunto1>Receita</assunto1>
+        <symbol2>052.213</symbol2>
+        <assunto2>Ingresso extraorçamentário (Receita / Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>310</id>
+        <symbol1>052.22</symbol1>
+        <assunto1>Despesa</assunto1>
+        <symbol2>052.221</symbol2>
+        <assunto2>Despesa corrente (Despesa / Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>311</id>
+        <symbol1>052.22</symbol1>
+        <assunto1>Despesa</assunto1>
+        <symbol2>052.222</symbol2>
+        <assunto2>Despesa de capital (Despesa / Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>312</id>
+        <symbol1>053</symbol1>
+        <assunto1>Fundos especiais</assunto1>
+        <symbol2>052.24</symbol2>
+        <assunto2>Gestão de fundos especiais (Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>313</id>
+        <symbol1>054</symbol1>
+        <assunto1>Estímulos financeiros e creditícios</assunto1>
+        <symbol2>052.251</symbol2>
+        <assunto2>Financeiros (Concessão de benefícios, estímulos e incentivos / Execução fin anceira)</assunto2>
+    </row>
+    <row>
+        <id>314</id>
+        <symbol1>054</symbol1>
+        <assunto1>Estímulos financeiros e creditícios</assunto1>
+        <symbol2>052.252</symbol2>
+        <assunto2>Creditícios (Concessão de benefícios, estímulos e incentivos / Execução fina nceira)</assunto2>
+    </row>
+    <row>
+        <id>315</id>
+        <symbol1>055</symbol1>
+        <assunto1>Operações bancárias</assunto1>
+        <symbol2>053</symbol2>
+        <assunto2>Operação bancária</assunto2>
+    </row>
+    <row>
+        <id>316</id>
+        <symbol1>055.01</symbol1>
+        <assunto1>Pagamentos em moeda estrangeira</assunto1>
+        <symbol2>053.1</symbol2>
+        <assunto2>Pagamento em moeda estrangeira (Operação bancária)</assunto2>
+    </row>
+    <row>
+        <id>317</id>
+        <symbol1>055.1</symbol1>
+        <assunto1>Conta única</assunto1>
+        <symbol2>053.2</symbol2>
+        <assunto2>Gestão da conta única (Operação bancária)</assunto2>
+    </row>
+    <row>
+        <id>318</id>
+        <symbol1>055.2</symbol1>
+        <assunto1>Outras contas: tipo B, C e D</assunto1>
+        <symbol2>053.3</symbol2>
+        <assunto2>Gestão das contas correntes bancárias: tipo A, B, C, D e E (Operação bancária)</assunto2>
+    </row>
+    <row>
+        <id>319</id>
+        <symbol1>056</symbol1>
+        <assunto1>Balanços.Balancetes</assunto1>
+        <symbol2>052.23</symbol2>
+        <assunto2>Demonstração contábil (Execução financeira)</assunto2>
+    </row>
+    <row>
+        <id>320</id>
+        <symbol1>057</symbol1>
+        <assunto1>Tomada de contas. Prestação de contas</assunto1>
+        <symbol2>054.1</symbol2>
+        <assunto2>Prestação de contas. Tomada de contas (Controle externo. Auditoria externa)</assunto2>
+    </row>
+    <row>
+        <id>321</id>
+        <symbol1>057</symbol1>
+        <assunto1>Tomada de contas. Prestação de contas</assunto1>
+        <symbol2>054.2</symbol2>
+        <assunto2>Tomada de contas especial (Controle externo. Auditoria externa)</assunto2>
+    </row>
+    <row>
+        <id>322</id>
+        <symbol1>059</symbol1>
+        <assunto1>Outros assuntos referentes a orçamento e finanças</assunto1>
+        <symbol2>059</symbol2>
+        <assunto2>Outras ações referentes à gestão orçamentária e financeira</assunto2>
+    </row>
+    <row>
+        <id>323</id>
+        <symbol1>059.1</symbol1>
+        <assunto1>Tributos (impostos e taxas)</assunto1>
+        <symbol2>059.2</symbol2>
+        <assunto2>Recolhimento de tributos, impostos e taxas</assunto2>
+    </row>
+    <row>
+        <id>324</id>
+        <symbol1>060</symbol1>
+        <assunto1>Documentação e informação</assunto1>
+        <symbol2>060</symbol2>
+        <assunto2>Gestão da documentação e da informação</assunto2>
+    </row>
+    <row>
+        <id>325</id>
+        <symbol1>060.1</symbol1>
+        <assunto1>Publicação de matérias no diário oficial</assunto1>
+        <symbol2>069.3</symbol2>
+        <assunto2>Publicação de matérias (Outras ações referentes à gestão da documentação e da informação)</assunto2>
+    </row>
+    <row>
+        <id>326</id>
+        <symbol1>060.2</symbol1>
+        <assunto1>Publicação de matérias nos boletins administrativo, de pessoal e de serviço</assunto1>
+        <symbol2>010.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Organização e funcionamento)</assunto2>
+    </row>
+    <row>
+        <id>327</id>
+        <symbol1>060.2</symbol1>
+        <assunto1>Publicação de matérias nos boletins administrativo, de pessoal e de serviço</assunto1>
+        <symbol2>020.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão de pessoas)</assunto2>
+    </row>
+    <row>
+        <id>328</id>
+        <symbol1>060.3</symbol1>
+        <assunto1>Publicação de matérias em outros periódicos</assunto1>
+        <symbol2>069.3</symbol2>
+        <assunto2>Publicação de matérias (Outras ações referentes à gestão da documentação e da informação)</assunto2>
+    </row>
+    <row>
+        <id>329</id>
+        <symbol1>061</symbol1>
+        <assunto1>Produção editorial</assunto1>
+        <symbol2>065.1</symbol2>
+        <assunto2>Edição. Coedição (Produção editorial)</assunto2>
+    </row>
+    <row>
+        <id>330</id>
+        <symbol1>061.1</symbol1>
+        <assunto1>Editoração. Programação visual</assunto1>
+        <symbol2>065.2</symbol2>
+        <assunto2>Editoração e programação visual (Produção editorial)</assunto2>
+    </row>
+    <row>
+        <id>331</id>
+        <symbol1>061.2</symbol1>
+        <assunto1>Distribuição. Promoção. Divulgação</assunto1>
+        <symbol2>065.3</symbol2>
+        <assunto2>Promoção, divulgação e distribuição (Produção editorial)</assunto2>
+    </row>
+    <row>
+        <id>332</id>
+        <symbol1>062</symbol1>
+        <assunto1>Documentação bibliográfica</assunto1>
+        <symbol2>062</symbol2>
+        <assunto2>Gestão de acervos bibliográfico e museológico</assunto2>
+    </row>
+    <row>
+        <id>333</id>
+        <symbol1>062.01</symbol1>
+        <assunto1>Normas e manuais</assunto1>
+        <symbol2>060.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão da documentação e da informação)</assunto2>
+    </row>
+    <row>
+        <id>334</id>
+        <symbol1>062.1</symbol1>
+        <assunto1>Aquisição</assunto1>
+        <symbol2>062.1</symbol2>
+        <assunto2>Aquisição e incorporação</assunto2>
+    </row>
+    <row>
+        <id>335</id>
+        <symbol1>062.11</symbol1>
+        <assunto1>Compra</assunto1>
+        <symbol2>062.11</symbol2>
+        <assunto2>Compra (Aquisição e incorporação / Gestão de acervos bibliográfico e museo lógico)</assunto2>
+    </row>
+    <row>
+        <id>336</id>
+        <symbol1>062.12</symbol1>
+        <assunto1>Doação</assunto1>
+        <symbol2>062.12</symbol2>
+        <assunto2>Doação (Aquisição e incorporação / Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>337</id>
+        <symbol1>062.13</symbol1>
+        <assunto1>Permuta</assunto1>
+        <symbol2>062.13</symbol2>
+        <assunto2>Permuta (Aquisição e incorporação / Gestão de acervos bibliográfico e mus eológico)</assunto2>
+    </row>
+    <row>
+        <id>338</id>
+        <symbol1>062.2</symbol1>
+        <assunto1>Registro</assunto1>
+        <symbol2>062.21</symbol2>
+        <assunto2>Registro (Processamento técnico / Gestão de acervos bibliográfico e museo lógico)</assunto2>
+    </row>
+    <row>
+        <id>339</id>
+        <symbol1>062.3</symbol1>
+        <assunto1>Catalogação. Classificação. Indexação</assunto1>
+        <symbol2>062.22</symbol2>
+        <assunto2>Catalogação, classificação e indexação (Processamento técnico / Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>340</id>
+        <symbol1>062.4</symbol1>
+        <assunto1>Referência e circulação</assunto1>
+        <symbol2>063.1</symbol2>
+        <assunto2>Consultas (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>341</id>
+        <symbol1>062.4</symbol1>
+        <assunto1>Referência e circulação</assunto1>
+        <symbol2>063.2</symbol2>
+        <assunto2>Empréstimos (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>342</id>
+        <symbol1>062.5</symbol1>
+        <assunto1>Inventário</assunto1>
+        <symbol2>062.3</symbol2>
+        <assunto2>Inventário (Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>343</id>
+        <symbol1>063</symbol1>
+        <assunto1>Documentação arquivística: gestão de documentos e sistema de arquivos</assunto1>
+        <symbol2>061</symbol2>
+        <assunto2>Gestão de documentos de arquivo</assunto2>
+    </row>
+    <row>
+        <id>344</id>
+        <symbol1>063.01</symbol1>
+        <assunto1>Normas e manuais</assunto1>
+        <symbol2>060.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão da documentação e da informação</assunto2>
+    </row>
+    <row>
+        <id>345</id>
+        <symbol1>063.1</symbol1>
+        <assunto1>Produção de documentos. Levantamento. Diagnóstico. Fluxo</assunto1>
+        <symbol2>061.3</symbol2>
+        <assunto2>Levantamento da produção e do fluxo documental (Gestão de documentos de arquivo)</assunto2>
+    </row>
+    <row>
+        <id>346</id>
+        <symbol1>063.2</symbol1>
+        <assunto1>Protocolo: recepção, tramitação e expedição de documentos</assunto1>
+        <symbol2>061.1</symbol2>
+        <assunto2>Adoção e controle dos procedimentos de protocolo (Gestão de documentos de arquivo)</assunto2>
+    </row>
+    <row>
+        <id>347</id>
+        <symbol1>063.3</symbol1>
+        <assunto1>Assistência técnica</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>348</id>
+        <symbol1>063.4</symbol1>
+        <assunto1>Classificação e arquivamento (Código de classificação de documentos)</assunto1>
+        <symbol2>061.4</symbol2>
+        <assunto2>Elaboração dos instrumentos técnicos de gestão de documentos</assunto2>
+    </row>
+    <row>
+        <id>349</id>
+        <symbol1>063.4</symbol1>
+        <assunto1>Classificação e arquivamento (Código de classificação de documentos)</assunto1>
+        <symbol2>061.51</symbol2>
+        <assunto2>Classificação (Aplicação dos instrumentos técnicos de gestão de documentos )</assunto2>
+    </row>
+    <row>
+        <id>350</id>
+        <symbol1>063.5</symbol1>
+        <assunto1>Política de acesso aos documentos</assunto1>
+        <symbol2>060.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão da documentação e da informação)</assunto2>
+    </row>
+    <row>
+        <id>351</id>
+        <symbol1>063.51</symbol1>
+        <assunto1>Consultas. Empréstimos</assunto1>
+        <symbol2>063.1</symbol2>
+        <assunto2>Consultas (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>352</id>
+        <symbol1>063.51</symbol1>
+        <assunto1>Consultas. Empréstimos</assunto1>
+        <symbol2>063.2</symbol2>
+        <assunto2>Empréstimos (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>353</id>
+        <symbol1>063.6</symbol1>
+        <assunto1>Destinação de documentos</assunto1>
+        <symbol2>061.52</symbol2>
+        <assunto2>Avaliação (Aplicação dos instrumentos técnicos de gestão de documentos)</assunto2>
+    </row>
+    <row>
+        <id>354</id>
+        <symbol1>063.61</symbol1>
+        <assunto1>Análise. Avaliação. Seleção (Tabela de temporalidade)</assunto1>
+        <symbol2>061.4</symbol2>
+        <assunto2>Elaboração dos instrumentos técnicos de gestão de documentos</assunto2>
+    </row>
+    <row>
+        <id>355</id>
+        <symbol1>063.61</symbol1>
+        <assunto1>Análise. Avaliação. Seleção (Tabela de temporalidade)</assunto1>
+        <symbol2>061.52</symbol2>
+        <assunto2>Avaliação (Aplicação dos instrumentos técnicos de gestão de documentos)</assunto2>
+    </row>
+    <row>
+        <id>356</id>
+        <symbol1>063.62</symbol1>
+        <assunto1>Eliminação</assunto1>
+        <symbol2>061.521</symbol2>
+        <assunto2>Eliminação (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</assunto2>
+    </row>
+    <row>
+        <id>357</id>
+        <symbol1>063.63</symbol1>
+        <assunto1>Transferência. Recolhimento</assunto1>
+        <symbol2>061.522</symbol2>
+        <assunto2>Transferência (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</assunto2>
+    </row>
+    <row>
+        <id>358</id>
+        <symbol1>063.63</symbol1>
+        <assunto1>Transferência. Recolhimento</assunto1>
+        <symbol2>061.523</symbol2>
+        <assunto2>Recolhimento (Avaliação / Aplicação dos instrumentos técnicos de gestão de documentos)</assunto2>
+    </row>
+    <row>
+        <id>359</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.11</symbol2>
+        <assunto2>Compra (Aquisição e incorporação / Gestão de acervos bibliográfico e museo lógico)</assunto2>
+    </row>
+    <row>
+        <id>360</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.12</symbol2>
+        <assunto2>Doação (Aquisição e incorporação / Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>361</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.13</symbol2>
+        <assunto2>Permuta (Aquisição e incorporação / Gestão de acervos bibliográfico e mus eológico)</assunto2>
+    </row>
+    <row>
+        <id>362</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.21</symbol2>
+        <assunto2>Registro (Processamento técnico / Gestão de acervos bibliográfico e museo lógico)</assunto2>
+    </row>
+    <row>
+        <id>363</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.22</symbol2>
+        <assunto2>Catalogação, classificação e indexação (Processamento técnico / Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>364</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.3</symbol2>
+        <assunto2>Inventário (Processamento técnico / Gestão de acervos bibliográfico e mus eológico)</assunto2>
+    </row>
+    <row>
+        <id>365</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.41</symbol2>
+        <assunto2>Doação (Desincorporação / Gestão de acervos bibliográfico e museológico)</assunto2>
+    </row>
+    <row>
+        <id>366</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>062.42</symbol2>
+        <assunto2>Descarte (Desincorporação / Gestão de acervos bibliográfico e museológico )</assunto2>
+    </row>
+    <row>
+        <id>367</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>063.1</symbol2>
+        <assunto2>Consultas (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>368</id>
+        <symbol1>064</symbol1>
+        <assunto1>Documentação museológica</assunto1>
+        <symbol2>063.2</symbol2>
+        <assunto2>Empréstimos (Controle de acesso e de movimentação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>369</id>
+        <symbol1>065</symbol1>
+        <assunto1>Reprodução de documentos</assunto1>
+        <symbol2>064.31</symbol2>
+        <assunto2>Microfilmagem (Reformatação / Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>370</id>
+        <symbol1>065</symbol1>
+        <assunto1>Reprodução de documentos</assunto1>
+        <symbol2>064.32</symbol2>
+        <assunto2>Digitalização (Reformatação / Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>371</id>
+        <symbol1>066</symbol1>
+        <assunto1>Conservação de documentos</assunto1>
+        <symbol2>064.01</symbol2>
+        <assunto2>Avaliação e monitoramento (Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>372</id>
+        <symbol1>066.1</symbol1>
+        <assunto1>Desinfestação. Higienização</assunto1>
+        <symbol2>064.1</symbol2>
+        <assunto2>Desinfestação e higienização (Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>373</id>
+        <symbol1>066.2</symbol1>
+        <assunto1>Armazenamento. Depósitos</assunto1>
+        <symbol2>064.2</symbol2>
+        <assunto2>Controle das áreas de armazenamento (Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>374</id>
+        <symbol1>066.3</symbol1>
+        <assunto1>Restauração</assunto1>
+        <symbol2>064.4</symbol2>
+        <assunto2>Restauração (Conservação e preservação de acervos)</assunto2>
+    </row>
+    <row>
+        <id>375</id>
+        <symbol1>067</symbol1>
+        <assunto1>Informática</assunto1>
+        <symbol2>066</symbol2>
+        <assunto2>Gestão de tecnologia da informação</assunto2>
+    </row>
+    <row>
+        <id>376</id>
+        <symbol1>067.1</symbol1>
+        <assunto1>Planos e projetos</assunto1>
+        <symbol2>066.1</symbol2>
+        <assunto2>Desenvolvimento e controle de sistemas informatizados (Gestão de tecnologia da informação)</assunto2>
+    </row>
+    <row>
+        <id>377</id>
+        <symbol1>067.2</symbol1>
+        <assunto1>Programas. Sistemas. Redes</assunto1>
+        <symbol2>066.2</symbol2>
+        <assunto2>Instalação de equipamentos (Gestão de tecnologia da informação)</assunto2>
+    </row>
+    <row>
+        <id>378</id>
+        <symbol1>067.21</symbol1>
+        <assunto1>Manuais técnicos</assunto1>
+        <symbol2>066.2</symbol2>
+        <assunto2>Instalação de equipamentos (Gestão de tecnologia da informação)</assunto2>
+    </row>
+    <row>
+        <id>379</id>
+        <symbol1>067.22</symbol1>
+        <assunto1>Manuais do usuário</assunto1>
+        <symbol2>066.2</symbol2>
+        <assunto2>Instalação de equipamentos (Gestão de tecnologia da informação)</assunto2>
+    </row>
+    <row>
+        <id>380</id>
+        <symbol1>067.3</symbol1>
+        <assunto1>Assistência técnica</assunto1>
+        <symbol2>067</symbol2>
+        <assunto2>Contratação de prestação de serviços</assunto2>
+    </row>
+    <row>
+        <id>381</id>
+        <symbol1>069</symbol1>
+        <assunto1>Outros assuntos referentes à documentação e informação</assunto1>
+        <symbol2>069</symbol2>
+        <assunto2>Outras ações referentes à gestão da documentação e da informação</assunto2>
+    </row>
+    <row>
+        <id>382</id>
+        <symbol1>070</symbol1>
+        <assunto1>Comunicações</assunto1>
+        <symbol2>070</symbol2>
+        <assunto2>Gestão dos serviços postais e de telecomunicações</assunto2>
+    </row>
+    <row>
+        <id>383</id>
+        <symbol1>071</symbol1>
+        <assunto1>Serviço postal</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>384</id>
+        <symbol1>071.1</symbol1>
+        <assunto1>Serviços de entrega expressa</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>385</id>
+        <symbol1>071.11</symbol1>
+        <assunto1>Nacional</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>386</id>
+        <symbol1>071.12</symbol1>
+        <assunto1>Internacional</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>387</id>
+        <symbol1>071.2</symbol1>
+        <assunto1>Serviços de coleta, transporte e entrega de correspondência agrupada - malote</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>388</id>
+        <symbol1>071.3</symbol1>
+        <assunto1>Mala oficial</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>389</id>
+        <symbol1>071.9</symbol1>
+        <assunto1>Outros serviços postais</assunto1>
+        <symbol2>071.1</symbol2>
+        <assunto2>Serviço postal (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>390</id>
+        <symbol1>072</symbol1>
+        <assunto1>Serviço de rádio</assunto1>
+        <symbol2>071.2</symbol2>
+        <assunto2>Serviço de radiofrequência (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>391</id>
+        <symbol1>072.1</symbol1>
+        <assunto1>Instalação. Manutenção. Reparo</assunto1>
+        <symbol2>071.2</symbol2>
+        <assunto2>Serviço de radiofrequência (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>392</id>
+        <symbol1>073</symbol1>
+        <assunto1>Serviço de telex</assunto1>
+        <symbol2>071.3</symbol2>
+        <assunto2>Serviço de telex (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>393</id>
+        <symbol1>073.1</symbol1>
+        <assunto1>Instalação. Manutenção. Reparo</assunto1>
+        <symbol2>071.3</symbol2>
+        <assunto2>Serviço de telex (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>394</id>
+        <symbol1>074</symbol1>
+        <assunto1>Serviço telefônico. Fac-símile</assunto1>
+        <symbol2>071.4</symbol2>
+        <assunto2>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>395</id>
+        <symbol1>074</symbol1>
+        <assunto1>Serviço telefônico. Fac-símile</assunto1>
+        <symbol2>073.32</symbol2>
+        <assunto2>Registro de ligações (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</assunto2>
+    </row>
+    <row>
+        <id>396</id>
+        <symbol1>074.1</symbol1>
+        <assunto1>Instalação. Transferência. Manutenção. Reparo</assunto1>
+        <symbol2>071.4</symbol2>
+        <assunto2>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>397</id>
+        <symbol1>074.1</symbol1>
+        <assunto1>Instalação. Transferência. Manutenção. Reparo</assunto1>
+        <symbol2>073.31</symbol2>
+        <assunto2>Transferência de propriedade ou titularidade (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</assunto2>
+    </row>
+    <row>
+        <id>398</id>
+        <symbol1>074.2</symbol1>
+        <assunto1>Listas telefônicas internas</assunto1>
+        <symbol2>073.33</symbol2>
+        <assunto2>Divulgação de listas telefônicas internas (Serviço de telefonia. Serviço de fax / Autorização e controle de uso)</assunto2>
+    </row>
+    <row>
+        <id>399</id>
+        <symbol1>074.3</symbol1>
+        <assunto1>Contas telefônicas</assunto1>
+        <symbol2>071.4</symbol2>
+        <assunto2>Serviço de telefonia. Serviço de fax (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>400</id>
+        <symbol1>075</symbol1>
+        <assunto1>Serviço de transmissão de dados, voz e imagem</assunto1>
+        <symbol2>071.5</symbol2>
+        <assunto2>Serviço de transmissão de dados, voz e imagem (Contratação de prestação de serviços)</assunto2>
+    </row>
+    <row>
+        <id>401</id>
+        <symbol1>075</symbol1>
+        <assunto1>Serviço de transmissão de dados, voz e imagem</assunto1>
+        <symbol2>073.4</symbol2>
+        <assunto2>Serviço de transmissão de dados, voz e imagem (Autorização e controle de uso)</assunto2>
+    </row>
+    <row>
+        <id>402</id>
+        <symbol1>079</symbol1>
+        <assunto1>Outros assuntos referentes a comunicações</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>-</assunto2>
+    </row>
+    <row>
+        <id>403</id>
+        <symbol1>090</symbol1>
+        <assunto1>Outros assuntos referentes à administração geral</assunto1>
+        <symbol2>-</symbol2>
+        <assunto2>Subclasse vaga</assunto2>
+    </row>
+    <row>
+        <id>404</id>
+        <symbol1>091</symbol1>
+        <assunto1>Ações judiciais</assunto1>
+        <symbol2>004.11</symbol2>
+        <assunto2>Uniformização do entendimento jurídico (Orientação técnica e normativa / Assessoramento jurídico)</assunto2>
+    </row>
+    <row>
+        <id>405</id>
+        <symbol1>091</symbol1>
+        <assunto1>Ações judiciais</assunto1>
+        <symbol2>004.12</symbol2>
+        <assunto2>Análise dos instrumentos administrativos (Orientação técnica e normativa / Assessoramento jurídico)</assunto2>
+    </row>
+    <row>
+        <id>406</id>
+        <symbol1>091</symbol1>
+        <assunto1>Ações judiciais</assunto1>
+        <symbol2>004.21</symbol2>
+        <assunto2>Representação judicial (Atuação em contencioso / Assessoramento jurídico)</assunto2>
+    </row>
+    <row>
+        <id>407</id>
+        <symbol1>091</symbol1>
+        <assunto1>Ações judiciais</assunto1>
+        <symbol2>004.22</symbol2>
+        <assunto2>Representação extrajudicial (Atuação em contencioso / Assessoramento jurídico)</assunto2>
+    </row>
+    <row>
+        <id>408</id>
+        <symbol1>900</symbol1>
+        <assunto1>Assuntos diversos</assunto1>
+        <symbol2>900</symbol2>
+        <assunto2>Administração de atividades acessórias</assunto2>
+    </row>
+    <row>
+        <id>409</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>910.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>410</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>911</symbol2>
+        <assunto2>Planejamento e programação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>411</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>912</symbol2>
+        <assunto2>Divulgação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>412</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>913</symbol2>
+        <assunto2>Inscrição e controle de frequência (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>413</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>914</symbol2>
+        <assunto2>Emissão de certificados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>414</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>915</symbol2>
+        <assunto2>Avaliação dos resultados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>415</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>916</symbol2>
+        <assunto2>Habilitação, julgamento e recursos (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>416</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>917</symbol2>
+        <assunto2>Premiação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>417</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>918</symbol2>
+        <assunto2>Contratação de prestação de serviços (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>418</id>
+        <symbol1>910</symbol1>
+        <assunto1>Solenidades. Comemorações. Homenagens</assunto1>
+        <symbol2>919.1</symbol2>
+        <assunto2>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>419</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>910.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>420</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>911</symbol2>
+        <assunto2>Planejamento e programação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>421</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>912</symbol2>
+        <assunto2>Divulgação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>422</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>913</symbol2>
+        <assunto2>Inscrição e controle de frequência (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>423</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>914</symbol2>
+        <assunto2>Emissão de certificados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>424</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>915</symbol2>
+        <assunto2>Avaliação dos resultados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>425</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>916</symbol2>
+        <assunto2>Habilitação, julgamento e recursos (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>426</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>917</symbol2>
+        <assunto2>Premiação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>427</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>918</symbol2>
+        <assunto2>Contratação de prestação de serviços (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>428</id>
+        <symbol1>920</symbol1>
+        <assunto1>Congressos. Conferências. Seminários. Simpósios. Encontros.Convenções. Ciclos de palestras. Mesas redondas</assunto1>
+        <symbol2>919.1</symbol2>
+        <assunto2>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>429</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>910.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>430</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>911</symbol2>
+        <assunto2>Planejamento e programação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>431</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>912</symbol2>
+        <assunto2>Divulgação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>432</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>913</symbol2>
+        <assunto2>Inscrição e controle de frequência (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>433</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>914</symbol2>
+        <assunto2>Emissão de certificados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>434</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>915</symbol2>
+        <assunto2>Avaliação dos resultados (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>435</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>916</symbol2>
+        <assunto2>Habilitação, julgamento e recursos (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>436</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>917</symbol2>
+        <assunto2>Premiação (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>437</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>918</symbol2>
+        <assunto2>Contratação de prestação de serviços (Gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>438</id>
+        <symbol1>930</symbol1>
+        <assunto1>Feiras. Salões. Exposições. Mostras. Concursos. Festas</assunto1>
+        <symbol2>919.1</symbol2>
+        <assunto2>Participação em eventos promovidos e realizados por outras instituições (Outras ações referentes à gestão de eventos)</assunto2>
+    </row>
+    <row>
+        <id>439</id>
+        <symbol1>940</symbol1>
+        <assunto1>Visitas e visitantes</assunto1>
+        <symbol2>920.01</symbol2>
+        <assunto2>Normatização. Regulamentação (Promoção de visitas)</assunto2>
+    </row>
+    <row>
+        <id>440</id>
+        <symbol1>940</symbol1>
+        <assunto1>Visitas e visitantes</assunto1>
+        <symbol2>921</symbol2>
+        <assunto2>Programação de visitas (Promoção de visitas)</assunto2>
+    </row>
+    <row>
+        <id>441</id>
+        <symbol1>940</symbol1>
+        <assunto1>Visitas e visitantes</assunto1>
+        <symbol2>922</symbol2>
+        <assunto2>Controle de visitas e visitantes (Promoção de visitas)</assunto2>
+    </row>
+    <row>
+        <id>442</id>
+        <symbol1>990</symbol1>
+        <assunto1>Assuntos transitórios</assunto1>
+        <symbol2>990</symbol2>
+        <assunto2>Outras ações referentes à administração de atividades acessórias</assunto2>
+    </row>
+    <row>
+        <id>443</id>
+        <symbol1>991</symbol1>
+        <assunto1>Apresentação. Recomendação</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>444</id>
+        <symbol1>992</symbol1>
+        <assunto1>Comunicados e informes</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>445</id>
+        <symbol1>993</symbol1>
+        <assunto1>Agradecimentos. Convites. Felicitações. Pêsames</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>446</id>
+        <symbol1>994</symbol1>
+        <assunto1>Protestos. Reivindicações. Sugestões</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>447</id>
+        <symbol1>995</symbol1>
+        <assunto1>Pedidos, oferecimentos e informações diversas</assunto1>
+        <symbol2>991</symbol2>
+        <assunto2>Gestão de comunicações eventuais</assunto2>
+    </row>
+    <row>
+        <id>448</id>
+        <symbol1>996</symbol1>
+        <assunto1>Associações: culturais, de amigos e de servidores</assunto1>
+        <symbol2>992</symbol2>
+        <assunto2>Relacionamento com associações culturais, de amigos e de servidores</assunto2>
+    </row>
+</ROOT>
